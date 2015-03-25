@@ -15,6 +15,10 @@
     <string name="button_go">Go</string>
     <string name="button_restart">Restart App</string>
 
+    <string name="error_generic">An unexpected Error has occured!</string>
+    <string name="error_noNetwork">No Network Connection is available</string>
+    <string name="error_noLocation">User Location not identified. Activate in Settings.</string>
+
 
     <string name="hello_world">Hello world!</string>
 

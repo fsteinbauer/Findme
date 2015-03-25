@@ -84,11 +84,29 @@ public class MainActivity extends FragmentActivity implements FilterLatLngDialog
         });
 
 
-        LocationManager locationManager = (LocationManager) getApplicationContext()
-                .getSystemService(Context.LOCATION_SERVICE);
+        LocationListener listener = new LocationListener() {
+            @Override
+            public void onLocationChanged(Location location) {
+                setLocation(location);
+            }
+            public void onStatusChanged(String s, int i, Bundle bundle) { }
+            public void onProviderEnabled(String s) {}
+            public void onProviderDisabled(String s) {}
+        };
 
-        location = locationManager
-                .getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        try {
+            location = LocationUtil.getLocation(this.getApplicationContext(), listener);
+        } catch (LocationException e) {
+            e.printStackTrace();
+            Util.startErrorActivity(MainActivity.this, R.string.error_generic);
+            return;
+        }
+
+        if( location == null){
+            Util.startErrorActivity(MainActivity.this, R.string.error_noLocation);
+            return;
+        }
+        isLocationFound = true;
 
 
         // Populate the spinner first with the default value,
