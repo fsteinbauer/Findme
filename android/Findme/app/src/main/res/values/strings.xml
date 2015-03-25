@@ -1,6 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Findme</string>
+
+    <string name="app_name">Find Me</string>
+    
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_filterLatLng_lat">Latitude:</string>
+    <string name="dialog_filterLatLng_lng">Longitude:</string>
+    
+
+    <string name="main_title">Where is the next</string>
+    <string name="spinner_loading">Loading&#8230;</string>
+    <string name="nodes_loading">Loading Nodes</string>
+    <string name="button_go">Go</string>
+    <string name="button_restart">Restart App</string>
+
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+
+
 </resources>

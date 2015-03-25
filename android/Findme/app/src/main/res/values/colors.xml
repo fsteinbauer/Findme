@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_green">#1E4147</color>
+    <color name="medium_green">#437356</color>
+    <color name="light_green">#AAC789</color>
+    <color name="skin">#FAE3B4</color>
+    <color name="red">#F34A53</color>
+    <color name="dark_red">#661F23</color>
+
+    <color name="light_gray">#EEE</color>
+    <color name="medium_gray">#DDD</color>
+    <color name="dark_gray">#333</color>
+
+    <color name="text">@color/dark_green</color>
+    
+    <color name="white">#FFF</color>
+</resources>

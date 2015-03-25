@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/widget_margin"
+    android:background="@drawable/appwidget_dark_bg_clickable"
+    android:paddingLeft="8dip"
+    android:paddingTop="4dip"
+    android:paddingBottom="4dip"
+    android:paddingRight="8dip" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ic_launcher" />
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        <TextView
+	        android:id="@+id/textView1"
+	        android:layout_marginLeft="8dp"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="Where is the next"
+	        android:gravity="center_horizontal"
+	        android:textColor="@color/light_green"
+	         />
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_atm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" ATM"
+                android:drawableLeft="@drawable/atm" />
+            
+            <Button
+                android:id="@+id/btn_gas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/fuel"
+                android:text=" Gas" />
+            <Button
+                android:id="@+id/btn_shop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/shop"
+                android:text=" Shop" />
+            
+            
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+ 	
+ 	
+ 	
+</LinearLayout>
