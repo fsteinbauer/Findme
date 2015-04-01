@@ -6,7 +6,7 @@
     AutoLoader::registerDirectory('../src');
 
 
-    //header('Content-Type: application/json');
+    header('Content-Type: application/json');
     $query = new RequestController(new SQLConnector(), $_GET);
     print($query->run());
 

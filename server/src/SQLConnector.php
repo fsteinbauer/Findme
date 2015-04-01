@@ -9,9 +9,8 @@ class SQLConnector {
     }
     
     public function executeQuery($query) {
-        $sql = $query->getQueryString();
-        $result = mysql_query($sql);
-        return $result;
+        return $query->getQueryString();
+
     }
 
     public function connect() {
