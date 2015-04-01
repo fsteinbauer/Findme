@@ -1,11 +1,8 @@
 <?php
-// Load the different Functions
-foreach (glob("../src/*.php") as $filename)
-{
-    require_once $filename;
-}
+    require_once('src/AutoLoader.php');
 
-foreach (glob("../src/*/*.php") as $filename)
-{
-    require_once $filename;
-}
+    // Register the directory to your include files
+    AutoLoader::registerDirectory('src');
+
+
+

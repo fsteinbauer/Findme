@@ -5,8 +5,7 @@ class SQLConnector {
     private $config;
 
     function __construct(){
-        $this->config = parse_ini_file('../database.ini');
-        var_dump($this->config);
+        $this->config = parse_ini_file('database.ini');
     }
     
     public function executeQuery($query) {

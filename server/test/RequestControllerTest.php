@@ -1,7 +1,6 @@
 <?php
 
-include_once 'bootstrap.php';
-
+require_once 'bootstrap.php';
 
 class MockSQLConnector extends  SQLConnector
 {
@@ -34,7 +33,7 @@ class RequestControllerTest extends PHPUnit_Framework_TestCase {
         $this->assertEquals($this->errorMsg, $this->requestController->run());
     }
 
-    public function testAllCategories() {
+    /*public function testAllCategories() {
         $getRequest = array( 'task' => 'all_categories');
         $this->requestController = new RequestController(new MockSQLConnector(),$getRequest );
 
@@ -43,6 +42,7 @@ class RequestControllerTest extends PHPUnit_Framework_TestCase {
         // TODO mock mysql fetching in Tasks??
         // TODO MockSQLConnector??
 
-    }
+    }*/
+
 
 }
