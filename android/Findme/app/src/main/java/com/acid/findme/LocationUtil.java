@@ -8,6 +8,8 @@ import android.util.Log;
 
 import com.acid.findme.exception.LocationException;
 
+/**
+ */
 public class LocationUtil {
     public static final String LOCATION_UTIL_TAG = "LocationUtil";
 

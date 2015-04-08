@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+	<fragment
+	    android:id="@+id/the_map"
+	    android:layout_width="match_parent"
+	    android:layout_height="300dip"
+	    android:name="com.google.android.gms.maps.MapFragment"
+	    />
+	
+	<LinearLayout
+	   	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical"
+    	android:padding="10dip" >
+	
+		<TextView 
+		    android:id="@+id/name"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:text="The Title"
+		    android:textSize="20sp"
+		    />
+		<TextView 
+		    android:id="@+id/cat"
+		    android:text="The Category"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    />
+		<TextView
+		    android:id="@+id/distance"
+		    android:text="850m"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    />
+		
+	</LinearLayout>
+</LinearLayout>
+
