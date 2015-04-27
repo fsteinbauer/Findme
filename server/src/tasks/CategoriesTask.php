@@ -3,7 +3,7 @@
 
 class CategoriesTask extends AbstractTask{
 
-    public function execute() {
+    public function execute(array $params=null) {
 
         $output = $this->sqlConnector->executeQuery(new CategoriesQuery());
 

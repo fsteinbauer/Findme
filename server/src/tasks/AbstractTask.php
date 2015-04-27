@@ -8,5 +8,5 @@ abstract class AbstractTask {
         $this->sqlConnector = $sqlConnector;
     }
 
-    public abstract function execute();
+    public abstract function execute(array $params=null);
 }

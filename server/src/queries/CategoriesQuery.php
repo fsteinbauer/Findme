@@ -18,7 +18,7 @@ class CategoriesQuery extends Query{
 
         if (!$result) {
             $output = array(
-                "success"		=> '0',
+                "success"		=> false,
                 "error"			=> 'MYSQL_ERROR',
                 "error_detail"	=> mysql_error()
             );

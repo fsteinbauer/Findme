@@ -22,7 +22,7 @@ class RequestController{
         if(isset( $this->getRequest['task'])){
             switch ( $this->getRequest['task']) {
                 case 'all_nodes':
-                    $response = null;
+                    $response = (new AllNodesTask($this->dbConnector))->execute($this->getRequest);
                     break;
 
                 case 'all_categories':
@@ -30,15 +30,22 @@ class RequestController{
                     break;
 
                 case 'single_node':
-                    $response = null;
+                    $response = (new SingleNodeTask($this->dbConnector))->execute($this->getRequest);
                     break;
+                default:
+                    $response = array(
+                        'success' 	=> false,
+                        'error'		=> 'No parameter \'task\' specified.'
+                    );
+                    $response = json_encode($response);
+
             }
-        } else {
+        } else {    $response = array(
+            'success' 	=> false,
+            'error'		=> 'No parameter \'task\' specified.'
+        );
             // No task property specified
-            $response = array(
-                'success' 	=> false,
-                'error'		=> 'No parameter \'task\' specified.'
-            );
+
             $response = json_encode($response);
         }
 
