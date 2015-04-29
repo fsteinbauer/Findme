@@ -10,52 +10,8 @@ class AllNodesQuery extends Query{
         $this->params = $params;
     }
 
-    private function checkParams() {
-
-        $error = array();
-
-        if( !array_key_exists( 'lat', $this->params )){
-            $error['success'] = false;
-            $error['error'] = 'lat not specified';
-        }
-
-        if( !array_key_exists( 'lon', $this->params )){
-            $error['success'] = false;
-            $error['error'] = (isset($error['error'])?$error['error'].'; ':'') .'lon not specified';
-        }
-
-        if(isset($error['error'])) {
-            return $error;
-        }
-
-
-        // If we have no min and max Lat/Lng, set some
-        if( !array_key_exists( 'minLat', $this->params )){
-            $this->params['minLat'] = -90;
-        }
-        if( !array_key_exists( 'maxLat',  $this->params )){
-            $this->params['maxLat'] = 90;
-        }
-        if( !array_key_exists( 'minLng',  $this->params )){
-            $this->params['minLng'] = -180;
-        }
-        if( !array_key_exists( 'maxLng',  $this->params )){
-            $this->params['maxLng'] = 180;
-        }
-        if( !array_key_exists( 'cid',  $this->params )){
-            $this->params['cid'] = 1;
-        }
-
-        return $error;
-    }
-
     public function getQueryString() {
 
-        $output = $this->checkParams();
-
-        if(isset($output['error'])) {
-            return $output;
-        }
         // Build SQL
         $sql = "SELECT nid,
 			( 6371 * acos( cos( radians(%f) ) * cos( radians( lat ) ) * cos( radians( lon )

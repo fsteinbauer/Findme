@@ -10,28 +10,9 @@ class SingleNodeQuery extends Query{
         $this->params = $params;
     }
 
-    private function checkParams() {
-        $error = array();
 
-        if( !isset($this->params['id']) || !is_numeric($this->params['id']) ){
-            $error['success'] = false;
-            $error['error'] = "No id specified";
-        }
-
-        return $error;
-
-    }
 
     public function getQueryString() {
-
-        $output = $this->checkParams();
-
-
-        if(isset($output['error'])) {
-            return $output;
-        }
-
-
 
         // Build SQL
         $sql = "SELECT *

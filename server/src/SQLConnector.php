@@ -10,7 +10,6 @@ class SQLConnector {
     
     public function executeQuery($query) {
         return $query->getQueryString();
-
     }
 
     public function connect() {
