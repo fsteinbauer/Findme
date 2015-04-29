@@ -1,0 +1,5196 @@
+<xml>
+		
+			<tr>
+				<td class="col_atmnumber">17033404</td>
+				<td class="col_description">SPARDA-BANK LINZ</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHALLMOSER HAUPTSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17004404</td>
+				<td class="col_description">SPARDA-BANK LINZ</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">JOSEF-LEITGEB-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17003424</td>
+				<td class="col_description">SPARDA-BANK LINZ</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HAUPTBAHNHOF ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17003414</td>
+				<td class="col_description">SPARDA-BANK LINZ</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HAUPTBAHNHOF ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17003404</td>
+				<td class="col_description">SPARDA-BANK LINZ</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HAUPTBAHNHOF ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15760216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">MITTERGASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15760126</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">MITTERGASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15760116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">MITTERGASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15700116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">POSTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15600216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15600116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15400216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">PRAMERPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15071116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS</td>
+				<td class="col_street">WASSERFELDSTRASSE 45</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15033216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5033</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 75</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15033116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 75</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15026116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5026</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 78</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15024216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAX-OTT-PLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15024126</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAX-OTT-PLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15024116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAX-OTT-PLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15020216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15020116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15014216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RUDOLF-BIEBL-STRASSE 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15014116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RUDOLF-BIEBL-STRASSE 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15013116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">M 116</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">11605014</td>
+				<td class="col_description">GENERALI BANK</td>
+				<td class="col_zip">5024</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MARKUS-SITTIKUS STRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6500604</td>
+				<td class="col_description">VOLKSBANK NEUMARKT</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6500414</td>
+				<td class="col_description">VOLKSBANK STRASSWALCHEN</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">SALZBURGER STRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6500404</td>
+				<td class="col_description">VOLKSBANK STRASSWALCHEN</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">SALZBURGER STRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2309204</td>
+				<td class="col_description">SCHOELLERBANK AG</td>
+				<td class="col_zip">5024</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2309104</td>
+				<td class="col_description">SCHOELLERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAKARTPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1578104</td>
+				<td class="col_description">HYPO ALPE-ADRIA-BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HELLBRUNNER STRASSE 9A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1400144</td>
+				<td class="col_description">VOLKSBANK LAMPRECHTSHAUSEN</td>
+				<td class="col_zip">5112</td>
+				<td class="col_city">LAMPRECHTSHAUSEN</td>
+				<td class="col_street">HAUPTSTRASSE 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1400134</td>
+				<td class="col_description">VOLKSBANK OBERTRUM</td>
+				<td class="col_zip">5162</td>
+				<td class="col_city">OBERTRUM</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1400124</td>
+				<td class="col_description">VOLKSBANK OBERNDORF</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">BR 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1400114</td>
+				<td class="col_description">VOLKSBANK OBERNDORF</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">BR 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111154</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5024</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EBERHARD-FUGGER-STRASSE 2a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111104</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5710</td>
+				<td class="col_city">KAPRUN</td>
+				<td class="col_street">SIGMUND-THUN-STRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111044</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL AM SEE</td>
+				<td class="col_street">STADTPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111034</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">ANIF</td>
+				<td class="col_street">M 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111014</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAKARTPLATZ 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1111004</td>
+				<td class="col_description">BANKHAUS CARL SPAENGLER &amp; CO.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHWARZSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771714</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5031</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">KIRCHENSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771704</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771324</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">OBERE MARKTSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771154</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">M 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771094</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">M 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771084</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ITZLINGER HAUPTSTRASSE 36</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771034</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KAIGASSE 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">771024</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">BERGSTRASSE 21a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">69375</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">69125</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 98</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">69115</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SUEDTIROLERPLATZ 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">63095</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62905</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">IGNAZ-HARRER-STRASSE 40A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62865</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ETRICHSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62825</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">BODENLEHENSTRASSE 2-4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62795</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">ROBERTPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62735</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">IGNAZ-HARRER-STRASSE 47</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62705</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">NEUTORSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62645</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 98</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62425</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">LEOGANGER STRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62405</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KURGARTENSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62355</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 98</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62345</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 106</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62325</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 106</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62095</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BOECKSTEINER BUNDESSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62055</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">61195</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KAISERSCHUETZENSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">61185</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KAISERSCHUETZENSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">60125</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58593</td>
+				<td class="col_description">RAIKA GOLLING-SCHEFFAU-KELLAU</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">GOLLING</td>
+				<td class="col_street">MARKT 45</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58583</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK/GLOCKNERSTRASSE</td>
+				<td class="col_street">GEWERBESTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58573</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">PALFEN 115</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58563</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">WECHSELSTUBE B1 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58553</td>
+				<td class="col_description">RAIFFEISENBANK BRAMBERG</td>
+				<td class="col_zip">5733</td>
+				<td class="col_city">BRAMBERG</td>
+				<td class="col_street">SENNINGERFELD 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58543</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5542</td>
+				<td class="col_city">FLACHAU</td>
+				<td class="col_street">FLACHAUWINKLSTRASSE 215</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58533</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">BAHNHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58523</td>
+				<td class="col_description">RAIFFEISENBANK LEOGANG</td>
+				<td class="col_zip">5771</td>
+				<td class="col_city">HUETTEN</td>
+				<td class="col_street">SONNBERG 170</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58513</td>
+				<td class="col_description">RAIBA ST. MICHAEL-OBERLUNGAU</td>
+				<td class="col_zip">5584</td>
+				<td class="col_city">ZEDERHAUS</td>
+				<td class="col_street">ZEDERHAUS 81</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58503</td>
+				<td class="col_description">RAIFFEISENBANK WERFEN</td>
+				<td class="col_zip">5453</td>
+				<td class="col_city">WERFENWENG</td>
+				<td class="col_street">WENG 58</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58493</td>
+				<td class="col_description">RAIFFEISENBANK WERFEN</td>
+				<td class="col_zip">5450</td>
+				<td class="col_city">WERFEN</td>
+				<td class="col_street">MARKT 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58483</td>
+				<td class="col_description">RAIBA WALS-HIMMELREICH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">LOIGERSTRASSE 89</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58473</td>
+				<td class="col_description">RAIFFEISENBANK WALD</td>
+				<td class="col_zip">5742</td>
+				<td class="col_city">WALD IM PINZGAU</td>
+				<td class="col_street">KOENIGSLEITEN 65</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58463</td>
+				<td class="col_description">RAIFFEISENBANK WALD</td>
+				<td class="col_zip">5742</td>
+				<td class="col_city">WALD IM PINZGAU</td>
+				<td class="col_street">WALD 87</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58453</td>
+				<td class="col_description">RAIBA WAGRAIN-KLEINARL</td>
+				<td class="col_zip">5603</td>
+				<td class="col_city">KLEINARL</td>
+				<td class="col_street">MITTERKLEINARL 185</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58443</td>
+				<td class="col_description">RAIBA WAGRAIN-KLEINAR</td>
+				<td class="col_zip">5602</td>
+				<td class="col_city">WAGRAIN</td>
+				<td class="col_street">MARKT 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58433</td>
+				<td class="col_description">RAIFFEISENBANK UTTENDORF</td>
+				<td class="col_zip">5723</td>
+				<td class="col_city">UTTENDORF IM PINZGAU</td>
+				<td class="col_street">DORFPLATZ 220</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58423</td>
+				<td class="col_description">RAIFFEISENBANK THALGAU</td>
+				<td class="col_zip">5303</td>
+				<td class="col_city">THALGAU</td>
+				<td class="col_street">MARKTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58413</td>
+				<td class="col_description">RAIFFEISENBANK TAXENBACH</td>
+				<td class="col_zip">5651</td>
+				<td class="col_city">EMBACH</td>
+				<td class="col_street">EMBACH 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58393</td>
+				<td class="col_description">RAIFFEISENBANK TAMSWEG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">UNTERNBERG</td>
+				<td class="col_street">UNTERNBERG 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58383</td>
+				<td class="col_description">RAIFFEISENBANK TAMSWEG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">KIRCHENGASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58373</td>
+				<td class="col_description">RAIFFEISENBANK STRASSWALCHEN</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">SALZBURGERSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58363</td>
+				<td class="col_description">RAIBA ST. MICHAEL-OBERLUNGAU</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MICHAEL/LUNGAU</td>
+				<td class="col_street">RAIFFEISENPLATZ 242</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58353</td>
+				<td class="col_description">RAIBA ST. MARTIN-LOFER</td>
+				<td class="col_zip">5090</td>
+				<td class="col_city">LOFER</td>
+				<td class="col_street">LOFER, TOURISMUSVERBAND 310</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58343</td>
+				<td class="col_description">RAIBA ST. MARTIN-LOFER</td>
+				<td class="col_zip">5093</td>
+				<td class="col_city">WEISSBACH</td>
+				<td class="col_street">UNTERWEISSBACH 36A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58333</td>
+				<td class="col_description">RAIBA ST. MARTIN-LOFER</td>
+				<td class="col_zip">5092</td>
+				<td class="col_city">ST.MARTIN BEI LOFER</td>
+				<td class="col_street">LOFER 119</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58323</td>
+				<td class="col_description">RAIFFEISENBANK ST.KOLOMAN</td>
+				<td class="col_zip">5423</td>
+				<td class="col_city">ST.KOLOMAN</td>
+				<td class="col_street">TAUGL 173</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58313</td>
+				<td class="col_description">RAIBA ST. JOHANN IM PONGAU</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">ING.-LUDWIG-PECH-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58303</td>
+				<td class="col_description">RAIBA ST. JOHANN IM PONGAU</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">FILIALE ALPENDORF 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58293</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5350</td>
+				<td class="col_city">STROBL</td>
+				<td class="col_street">WEISSENBACH, AGIP-TS 250</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58283</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5350</td>
+				<td class="col_city">STROBL</td>
+				<td class="col_street">STROBL 275</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58273</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5330</td>
+				<td class="col_city">FUSCHL/SEE</td>
+				<td class="col_street">DORFPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58263</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5340</td>
+				<td class="col_city">ST. GILGEN</td>
+				<td class="col_street">MOZARTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58253</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5340</td>
+				<td class="col_city">ST. GILGEN</td>
+				<td class="col_street">MONDSEE BUNDESSTRASSE 1A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58243</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5342</td>
+				<td class="col_city">ABERSEE</td>
+				<td class="col_street">GSCHWAND 245</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58233</td>
+				<td class="col_description">RAIFFEISENBANK SEEKIRCHEN</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58223</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAIFFEISENSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58213</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHWARZSTRASSE 13-15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58203</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5027</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">JULIUS-RAAB-PLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58193</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HUMMELSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58183</td>
+				<td class="col_description">RAIBA ST.VEIT-SCHWARZACH</td>
+				<td class="col_zip">5621</td>
+				<td class="col_city">ST.VEIT IM PONGAU</td>
+				<td class="col_street">MARKT 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58173</td>
+				<td class="col_description">RAIBA ST.VEIT-SCHWARZACH</td>
+				<td class="col_zip">5620</td>
+				<td class="col_city">SCHWARZACH IM PONGAU</td>
+				<td class="col_street">KRANKENHAUS , SB-BEREICH 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58163</td>
+				<td class="col_description">RAIBA ST.VEIT-SCHWARZACH</td>
+				<td class="col_zip">5620</td>
+				<td class="col_city">SCHWARZACH IM PONGAU</td>
+				<td class="col_street">SALZBURGER STRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58153</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE-SCHUETTDORF</td>
+				<td class="col_street">KITZSTEINHORNSTRASSE 12-14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58143</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58133</td>
+				<td class="col_description">RAIFFEISENBANK SAALFELDEN</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">LOFERERSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58123</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">SAALBACH 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58113</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5752</td>
+				<td class="col_city">VIEHHOFEN</td>
+				<td class="col_street">DORFPLATZ 104</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58103</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5754</td>
+				<td class="col_city">HINTERGLEMM</td>
+				<td class="col_street">HINTERGLEMM 260</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58093</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5754</td>
+				<td class="col_city">HINTERGLEMM</td>
+				<td class="col_street">HINTERGLEMM 260</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58083</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">AM DORFPLATZ 311</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58073</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">AM DORFPLATZ 311</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58063</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5754</td>
+				<td class="col_city">HINTERGLEMM</td>
+				<td class="col_street">HINTERGLEMM 204</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58053</td>
+				<td class="col_description">RAIBA RAURIS-BUCHEBEN</td>
+				<td class="col_zip">5661</td>
+				<td class="col_city">RAURIS</td>
+				<td class="col_street">MARKT 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58043</td>
+				<td class="col_description">RAIBA RAMINGSTEIN-THOMA</td>
+				<td class="col_zip">5591</td>
+				<td class="col_city">RAMINGSTEIN</td>
+				<td class="col_street">GEMEINDEPLATZ 223</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58033</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5562</td>
+				<td class="col_city">OBERTAUERN</td>
+				<td class="col_street">OBERTAUERN 80</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58023</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5532</td>
+				<td class="col_city">FILZMOOS</td>
+				<td class="col_street">DORFPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58013</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">FORSTAU-RADSTADT</td>
+				<td class="col_street">FORSTAU 111</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">58003</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">RADSTADT</td>
+				<td class="col_street">STADTPLATZ 6/7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57993</td>
+				<td class="col_description">RAIFFEISENBANK PIESENDORF</td>
+				<td class="col_zip">5721</td>
+				<td class="col_city">PIESENDORF</td>
+				<td class="col_street">DORFSTRASSE 263</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57983</td>
+				<td class="col_description">RAIFFEISENBANK PIESENDORF</td>
+				<td class="col_zip">5721</td>
+				<td class="col_city">PIESENDORF</td>
+				<td class="col_street">DORFSTRASSE 263</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57973</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GAISBERGSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57963</td>
+				<td class="col_description">RAIBA OBERTRUM-MATTSEE</td>
+				<td class="col_zip">5163</td>
+				<td class="col_city">MATTSEE</td>
+				<td class="col_street">SALZBURGER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57953</td>
+				<td class="col_description">RAIBA OBERTRUM-MATTSEE</td>
+				<td class="col_zip">5162</td>
+				<td class="col_city">OBERTRUM AM SEE</td>
+				<td class="col_street">HAUPTSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57943</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">BRUECKENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57933</td>
+				<td class="col_description">RAIFFEISENBANK ST. GEORGEN</td>
+				<td class="col_zip">5113</td>
+				<td class="col_city">ST. GEORGEN/SALZBURG</td>
+				<td class="col_street">DORFPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57923</td>
+				<td class="col_description">RAIFFEISENBANK OBERALM-PUCH</td>
+				<td class="col_zip">5412</td>
+				<td class="col_city">PUCH BEI HALLEIN</td>
+				<td class="col_street">HALLEINER LANDESSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57913</td>
+				<td class="col_description">RAIFFEISENBANK OBERALM-PUCH</td>
+				<td class="col_zip">5411</td>
+				<td class="col_city">OBERALM</td>
+				<td class="col_street">KAHLSPERGSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57903</td>
+				<td class="col_description">RAIFFEISENBANK NUSSDORF</td>
+				<td class="col_zip">5151</td>
+				<td class="col_city">NUSSDORF AM HAUNSBERG</td>
+				<td class="col_street">HAUPTSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57893</td>
+				<td class="col_description">RAIFFEISENKASSE NIEDERNSILL</td>
+				<td class="col_zip">5722</td>
+				<td class="col_city">NIEDERNSILL</td>
+				<td class="col_street">NIEDERNSILL 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57873</td>
+				<td class="col_description">RAIFFEISENKASSE NEUKIRCHEN</td>
+				<td class="col_zip">5741</td>
+				<td class="col_city">NEUKIRCHEN/GROSSVENEDIGER</td>
+				<td class="col_street">MARKTSTRASSE 211</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57863</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">NONNTALER HAUPTSTRASSE 67</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57853</td>
+				<td class="col_description">RAIKA MITTERSILL-HOLLERSBACH</td>
+				<td class="col_zip">5724</td>
+				<td class="col_city">STUHLFELDEN</td>
+				<td class="col_street">STUHLFELDEN 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57843</td>
+				<td class="col_description">RAIKA MITTERSILL-HOLLERSBACH</td>
+				<td class="col_zip">5731</td>
+				<td class="col_city">HOLLERSBACH</td>
+				<td class="col_street">HOLLERSBACH 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57833</td>
+				<td class="col_description">RAIKA MITTERSILL-HOLLERSBACH</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">BURKERSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57823</td>
+				<td class="col_description">RAIKA MITTERSILL-HOLLERSBACH</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">KIRCHGASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57813</td>
+				<td class="col_description">RAIFFEISENBANK MICHAELBEUERN</td>
+				<td class="col_zip">5152</td>
+				<td class="col_city">MICHAELBEUERN</td>
+				<td class="col_street">MICHAELBEUERN 76</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57803</td>
+				<td class="col_description">RAIBA SALZBURG MAXGLAN</td>
+				<td class="col_zip">5072</td>
+				<td class="col_city">SIEZENHEIM</td>
+				<td class="col_street">FEILBACHSTRASSE 370</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57793</td>
+				<td class="col_description">RAIBA SALZBURG MAXGLAN</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57783</td>
+				<td class="col_description">RAIFFEISENBANK MAUTERNDORF</td>
+				<td class="col_zip">5562</td>
+				<td class="col_city">OBERTAUERN</td>
+				<td class="col_street">OBERTAUERN 67</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57773</td>
+				<td class="col_description">RAIFFEISENBANK MAUTERNDORF</td>
+				<td class="col_zip">5570</td>
+				<td class="col_city">MAUTERNDORF</td>
+				<td class="col_street">SCHIZENTRUM 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57763</td>
+				<td class="col_description">RAIFFEISENBANK MAUTERNDORF</td>
+				<td class="col_zip">5570</td>
+				<td class="col_city">MAUTERNDORF</td>
+				<td class="col_street">MAUTERNDORF 87</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57753</td>
+				<td class="col_description">RAIBA MARIA ALM-HINTERTHAL</td>
+				<td class="col_zip">5761</td>
+				<td class="col_city">MARIA ALM</td>
+				<td class="col_street">HOCHMAIS 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57743</td>
+				<td class="col_description">RAIBA MARIA ALM-HINTERTHAL</td>
+				<td class="col_zip">5761</td>
+				<td class="col_city">MARIA ALM</td>
+				<td class="col_street">AM GEMEINDEPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57733</td>
+				<td class="col_description">RAIBA MAISHOFEN-THUMERSBACH</td>
+				<td class="col_zip">5751</td>
+				<td class="col_city">MAISHOFEN</td>
+				<td class="col_street">ANTON-FAISTAUER-PLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57723</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINZER GASSE 76</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57713</td>
+				<td class="col_description">RAIBA SALZBURG-LIEFERING</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AM MESSEZENTRUM 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57703</td>
+				<td class="col_description">RAIBA SALZBURG-LIEFERING</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57693</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MOOSSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57683</td>
+				<td class="col_description">RAIFFEISENBANK LEOGANG</td>
+				<td class="col_zip">5771</td>
+				<td class="col_city">LEOGANG</td>
+				<td class="col_street">LEOGANG 65</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57673</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALOIS-STOCKINGER-STRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57663</td>
+				<td class="col_description">RB LAMPRECHTSHAUSEN-BUERMOOS</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">BUERMOOS</td>
+				<td class="col_street">IGNAZ-GLASER-STRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57653</td>
+				<td class="col_description">RB LAMPRECHTSHAUSEN-BUERMOOS</td>
+				<td class="col_zip">5112</td>
+				<td class="col_city">LAMPRECHTSHAUSEN</td>
+				<td class="col_street">HAUPTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57643</td>
+				<td class="col_description">RAIFFEISENKASSE KUCHL</td>
+				<td class="col_zip">5431</td>
+				<td class="col_city">KUCHL</td>
+				<td class="col_street">RAIFFEISENSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57633</td>
+				<td class="col_description">RAIFFEISENKASSE KRIMML</td>
+				<td class="col_zip">5743</td>
+				<td class="col_city">KRIMML</td>
+				<td class="col_street">OBERKRIMML 93</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57623</td>
+				<td class="col_description">RAIBA KOESTENDORF-NEUMARKT</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 39</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57613</td>
+				<td class="col_description">RAIBA KOESTENDORF-NEUMARKT</td>
+				<td class="col_zip">5203</td>
+				<td class="col_city">KOESTENDORF</td>
+				<td class="col_street">KOESTENDORF 114</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57603</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ELISABETHSTRASSE 38</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57593</td>
+				<td class="col_description">RAIBA HUETTAU-ST. MARTIN</td>
+				<td class="col_zip">5522</td>
+				<td class="col_city">ST. MARTIN AM TENNENGEBIRGE</td>
+				<td class="col_street">ST. MARTIN AM TENNENGEBIRGE 64</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57583</td>
+				<td class="col_description">RAIBA HUETTAU-ST. MARTIN</td>
+				<td class="col_zip">5511</td>
+				<td class="col_city">HUETTAU</td>
+				<td class="col_street">HUETTAU 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57573</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5632</td>
+				<td class="col_city">DORFGASTEIN</td>
+				<td class="col_street">DORFGASTEIN 175</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57563</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5645</td>
+				<td class="col_city">BOECKSTEIN</td>
+				<td class="col_street">BOECKSTEINER BUNDESSTRASSE 114</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57553</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BOECKSTEINER BUNDESSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57543</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KAISER-FRANZ-PLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57533</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">KAISER-FRANZ-JOSEF-STRASSE, WEISMAYR 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57523</td>
+				<td class="col_description">RAIFFEISENBANK HOF</td>
+				<td class="col_zip">5321</td>
+				<td class="col_city">KOPPL</td>
+				<td class="col_street">KOPPL 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57513</td>
+				<td class="col_description">RAIFFEISENBANK HOF</td>
+				<td class="col_zip">5323</td>
+				<td class="col_city">EBENAU</td>
+				<td class="col_street">EBENAU 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57503</td>
+				<td class="col_description">RAIFFEISENBANK HOF</td>
+				<td class="col_zip">5322</td>
+				<td class="col_city">HOF</td>
+				<td class="col_street">WOLFGANGSEESTRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57493</td>
+				<td class="col_description">RAIBA HENNDORF AM WALLERSEE</td>
+				<td class="col_zip">5302</td>
+				<td class="col_city">HENNDORF AM WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 63</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57483</td>
+				<td class="col_description">RAIFFEISENKASSE HALLWANG</td>
+				<td class="col_zip">5300</td>
+				<td class="col_city">HALLWANG</td>
+				<td class="col_street">WIENER BUNDESSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57473</td>
+				<td class="col_description">RAIFFEISENKASSE HALLWANG</td>
+				<td class="col_zip">5300</td>
+				<td class="col_city">HALLWANG</td>
+				<td class="col_street">DORFSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57463</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5424</td>
+				<td class="col_city">VIGAUN</td>
+				<td class="col_street">AM DORFPLATZ 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57453</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">SALZACHTAL BUNDESSTRASSE SUED 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57443</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5421</td>
+				<td class="col_city">ADNET</td>
+				<td class="col_street">ADNET 78</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57423</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">ROBERTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57413</td>
+				<td class="col_description">RAIFFEISENKASSE GROSSGMAIN</td>
+				<td class="col_zip">5084</td>
+				<td class="col_city">GROSSGMAIN</td>
+				<td class="col_street">SALZBURGER STRASSE 53</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57403</td>
+				<td class="col_description">RAIBA GROSSARL-HUETTSCHLAG</td>
+				<td class="col_zip">5612</td>
+				<td class="col_city">HUETTSCHLAG</td>
+				<td class="col_street">HUETTSCHLAG 81</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57393</td>
+				<td class="col_description">RAIBA GROSSARL-HUETTSCHLAG</td>
+				<td class="col_zip">5611</td>
+				<td class="col_city">GROSSARL</td>
+				<td class="col_street">PANORAMABAHN, UNTERBERG 123</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57383</td>
+				<td class="col_description">RAIBA GROSSARL-HUETTSCHLAG</td>
+				<td class="col_zip">5611</td>
+				<td class="col_city">GROSSARL</td>
+				<td class="col_street">GROSSARL 90</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57373</td>
+				<td class="col_description">RAIFFEISENBANK GROEDIG</td>
+				<td class="col_zip">5082</td>
+				<td class="col_city">FUERSTENBRUNN-GROEDIG</td>
+				<td class="col_street">FUERSTENBRUNNER STRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57363</td>
+				<td class="col_description">RAIFFEISENBANK GROEDIG</td>
+				<td class="col_zip">5082</td>
+				<td class="col_city">GROEDIG</td>
+				<td class="col_street">HAUPTSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57353</td>
+				<td class="col_description">RAIKA GOLLING-SCHEFFAU-KELLAU</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">GOLLING</td>
+				<td class="col_street">MARKT 45</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57343</td>
+				<td class="col_description">RAIKA GOLLING-SCHEFFAU-KELLAU</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">SCHEFFAU/TENNENGEBIRGE</td>
+				<td class="col_street">VEREINSHEIM/FEUERWEHRHAUS 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57323</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5412</td>
+				<td class="col_city">PUCH</td>
+				<td class="col_street">URSTEIN SUED, FACHHOCHSCHULE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57313</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5061</td>
+				<td class="col_city">ELSBETHEN</td>
+				<td class="col_street">F.-W.-RAIFFEISEN-STRASSE 6A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57303</td>
+				<td class="col_description">RAIFFEISENKASSE FAISTENAU</td>
+				<td class="col_zip">5324</td>
+				<td class="col_city">HINTERSEE</td>
+				<td class="col_street">LAEMMERBACH 50</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57293</td>
+				<td class="col_description">RAIFFEISENKASSE FAISTENAU</td>
+				<td class="col_zip">5324</td>
+				<td class="col_city">FAISTENAU</td>
+				<td class="col_street">AM LINDENPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57283</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">CASH &amp; CO. 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57273</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">DORF 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57263</td>
+				<td class="col_description">RAIFFEISENKASSE ELIXHAUSEN</td>
+				<td class="col_zip">5161</td>
+				<td class="col_city">ELIXHAUSEN</td>
+				<td class="col_street">PFARRWEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57253</td>
+				<td class="col_description">RAIFFEISENBANK DIENTEN</td>
+				<td class="col_zip">5652</td>
+				<td class="col_city">DIENTEN</td>
+				<td class="col_street">DORF 37</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57243</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5710</td>
+				<td class="col_city">KAPRUN</td>
+				<td class="col_street">ING.-FAZOKAS-STRASSE 690</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57233</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5672</td>
+				<td class="col_city">FUSCH</td>
+				<td class="col_street">NR. 155</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57223</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK/GROSSGLOCKNERSTRASSE</td>
+				<td class="col_street">GLOCKNERSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57213</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK/GROSSGLOCKNERSTRASSE</td>
+				<td class="col_street">KAPRUNER STRASSE 50</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57203</td>
+				<td class="col_description">RAIFFEISENBANK BRAMBERG</td>
+				<td class="col_zip">5732</td>
+				<td class="col_city">MUEHLBACH/OBERPINZGAU</td>
+				<td class="col_street">NR. 73</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57193</td>
+				<td class="col_description">RAIFFEISENBANK BRAMBERG</td>
+				<td class="col_zip">5733</td>
+				<td class="col_city">BRAMBERG</td>
+				<td class="col_street">KIRCHENSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57183</td>
+				<td class="col_description">RAIFFEISENBANK BISCHOFSHOFEN</td>
+				<td class="col_zip">5452</td>
+				<td class="col_city">PFARRWERFEN</td>
+				<td class="col_street">NR. 32</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57173</td>
+				<td class="col_description">RAIFFEISENBANK BISCHOFSHOFEN</td>
+				<td class="col_zip">5505</td>
+				<td class="col_city">MUEHLBACH/HOCHKOENIG</td>
+				<td class="col_street">NR. 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57163</td>
+				<td class="col_description">RAIFFEISENBANK BISCHOFSHOFEN</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">FRANZ-MOHSHAMMER-PLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57153</td>
+				<td class="col_description">RAIBA BERNDORF-SEEHAM</td>
+				<td class="col_zip">5164</td>
+				<td class="col_city">SEEHAM</td>
+				<td class="col_street">DORF 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57143</td>
+				<td class="col_description">RAIBA BERNDORF-SEEHAM</td>
+				<td class="col_zip">5165</td>
+				<td class="col_city">BERNDORF</td>
+				<td class="col_street">FRANZ-XAVER-GRUBER-PLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57133</td>
+				<td class="col_description">RAIFFEISENBANK BERGHEIM</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">DORFSTRASSE 37</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57123</td>
+				<td class="col_description">RAIFFEISENBANK BERGHEIM</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM-KASERN</td>
+				<td class="col_street">MOOSFELDSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57113</td>
+				<td class="col_description">RAIFFEISENBANK ANTHERING</td>
+				<td class="col_zip">5102</td>
+				<td class="col_city">ANTHERING</td>
+				<td class="col_street">SALZBURGER STRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57103</td>
+				<td class="col_description">RB ANNABERG-LUNGOETZ</td>
+				<td class="col_zip">5524</td>
+				<td class="col_city">ANNABERG/LAMMERTAL</td>
+				<td class="col_street">ANNABERG 125</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57093</td>
+				<td class="col_description">RAIFFEISENBANK ANIF-NIEDERALM</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">NIEDERALM</td>
+				<td class="col_street">BAECKERGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57083</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57073</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5542</td>
+				<td class="col_city">FLACHAU-REITDORF</td>
+				<td class="col_street">GEMEINDESTRASSE 154</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57063</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5542</td>
+				<td class="col_city">FLACHAU</td>
+				<td class="col_street">DORFSTRASSE 172</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57053</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">MARKTPLATZ 155</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57033</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 48</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57023</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5026</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57013</td>
+				<td class="col_description">RAIBA ABTENAU-RUSSBACH</td>
+				<td class="col_zip">5442</td>
+				<td class="col_city">RUSSBACH</td>
+				<td class="col_street">SAAG 150</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">57003</td>
+				<td class="col_description">RAIBA ABTENAU-RUSSBACH</td>
+				<td class="col_zip">5441</td>
+				<td class="col_city">ABTENAU</td>
+				<td class="col_street">MARKT 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56363</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">ZAUCHENSEE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56353</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5754</td>
+				<td class="col_city">HINTERGLEMM</td>
+				<td class="col_street">ZW 208</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56343</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5710</td>
+				<td class="col_city">KAPRUN</td>
+				<td class="col_street">WILHELM-FAZOKAS-STRASSE 2c</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56333</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">DORF 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56323</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK/GLOCKNERSTRASSE</td>
+				<td class="col_street">GEWERBESTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56313</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">GLEMMTALER LANDESSTRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56213</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5350</td>
+				<td class="col_city">STROBL</td>
+				<td class="col_street">STROBL 275</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56203</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5532</td>
+				<td class="col_city">FILZMOOS</td>
+				<td class="col_street">FILZMOOS 149</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56193</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">RADSTADT</td>
+				<td class="col_street">STADTPLATZ 6/7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56183</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5330</td>
+				<td class="col_city">FUSCHL/SEE</td>
+				<td class="col_street">DORFPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56173</td>
+				<td class="col_description">RAIBA SALZBURG MAXGLAN</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56163</td>
+				<td class="col_description">RAIFFEISENKASSE NEUKIRCHEN</td>
+				<td class="col_zip">5741</td>
+				<td class="col_city">NEUKIRCHEN/GROSSVENEDIGER</td>
+				<td class="col_street">MARKTSTRASSE 211</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56153</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINZER BUNDESSTRASSE 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56143</td>
+				<td class="col_description">RAIFFEISENBANK ANIF-NIEDERALM</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">BAECKERGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56133</td>
+				<td class="col_description">RAIFFEISENBANK ANIF-NIEDERALM</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">ANIF</td>
+				<td class="col_street">ANIFER STRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56123</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">GLEMMTALER LANDESSTRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56113</td>
+				<td class="col_description">RAIBA GROSSARL-HUETTSCHLAG</td>
+				<td class="col_zip">5611</td>
+				<td class="col_city">GROSSARL</td>
+				<td class="col_street">GROSSARL 90</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56103</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5531</td>
+				<td class="col_city">EBEN</td>
+				<td class="col_street">EBEN 71</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56093</td>
+				<td class="col_description">RAIFFEISENBANK OBERALM-PUCH</td>
+				<td class="col_zip">5412</td>
+				<td class="col_city">PUCH</td>
+				<td class="col_street">HALLEINER LANDESSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56083</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5662</td>
+				<td class="col_city">GRIES/PINZGAU</td>
+				<td class="col_street">GRIESER STRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56073</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">THUMERSBACH</td>
+				<td class="col_street">SEEUFERSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56063</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KAISER-FRANZ-PLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56053</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">MARKTPLATZ 155</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56043</td>
+				<td class="col_description">RAIBA ALTENMARKT-FLACHAU-EBEN</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">MARKTPLATZ 155</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56033</td>
+				<td class="col_description">RAIBA WALS-HIMMELREICH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">HAUPTSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56023</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK AN DER GROSSGLOCKNERSTRA</td>
+				<td class="col_street">GLOCKNERSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56013</td>
+				<td class="col_description">RAIBA ST. MARTIN-LOFER</td>
+				<td class="col_zip">5090</td>
+				<td class="col_city">LOFER</td>
+				<td class="col_street">MARKTPLATZ 54</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">56003</td>
+				<td class="col_description">VR-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KAROLINGERSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55993</td>
+				<td class="col_description">RAIFFEISENBANK MAUTERNDORF</td>
+				<td class="col_zip">5570</td>
+				<td class="col_city">MAUTERNDORF</td>
+				<td class="col_street">MARKT 87</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55983</td>
+				<td class="col_description">RAIFFEISENBANK MARIAPFARR</td>
+				<td class="col_zip">5571</td>
+				<td class="col_city">MARIAPFARR</td>
+				<td class="col_street">PFARRSTRASSE 29</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55973</td>
+				<td class="col_description">RAIFFEISENBANK GROEDIG</td>
+				<td class="col_zip">5082</td>
+				<td class="col_city">GROEDIG</td>
+				<td class="col_street">HAUPTSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55963</td>
+				<td class="col_description">RAIFFEISENBANK BERGHEIM</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">DORFSTRASSE 37</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55953</td>
+				<td class="col_description">RAIBA ABTENAU-RUSSBACH</td>
+				<td class="col_zip">5441</td>
+				<td class="col_city">ABTENAU</td>
+				<td class="col_street">MARKT 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55943</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5754</td>
+				<td class="col_city">HINTERGLEMM</td>
+				<td class="col_street">HINTERGLEMM 260</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55933</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHWARZSTRASSE 13-15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55913</td>
+				<td class="col_description">RAIFFEISENBANK BISCHOFSHOFEN</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">FRANZ-MOHSHAMMER-PLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55903</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GAISBERGSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55893</td>
+				<td class="col_description">RAIBA ST. VEIT-SCHWARZACH</td>
+				<td class="col_zip">5622</td>
+				<td class="col_city">GOLDEGG IM PONGAU</td>
+				<td class="col_street">HOFMARK 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55883</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MOOSSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55873</td>
+				<td class="col_description">RAIFFEISENKASSE ELIXHAUSEN</td>
+				<td class="col_zip">5161</td>
+				<td class="col_city">ELIXHAUSEN</td>
+				<td class="col_street">PFARRWEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55863</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BOECKSTEINER BUNDESSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55853</td>
+				<td class="col_description">RAIBA OBERTRUM-MATTSEE</td>
+				<td class="col_zip">5162</td>
+				<td class="col_city">OBERTRUM AM SEE</td>
+				<td class="col_street">HAUPTSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55843</td>
+				<td class="col_description">RAIKA MITTERSILL-HOLLERSBACH</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">KIRCHGASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55833</td>
+				<td class="col_description">RAIFFEISENBANK WERFEN</td>
+				<td class="col_zip">5450</td>
+				<td class="col_city">WERFEN</td>
+				<td class="col_street">MARKT 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55823</td>
+				<td class="col_description">RAIBA WAGRAIN-KLEINARL</td>
+				<td class="col_zip">5603</td>
+				<td class="col_city">KLEINARL</td>
+				<td class="col_street">MITTERKLEINARL 185</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55813</td>
+				<td class="col_description">RAIBA WAGRAIN-KLEINARL</td>
+				<td class="col_zip">5602</td>
+				<td class="col_city">WAGRAIN</td>
+				<td class="col_street">MARKT 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55803</td>
+				<td class="col_description">RAIBA BRUCK-FUSCH-KAPRUN</td>
+				<td class="col_zip">5710</td>
+				<td class="col_city">KAPRUN</td>
+				<td class="col_street">KAPRUN 690</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55793</td>
+				<td class="col_description">RAIBA KOESTENDORF-NEUMARKT</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 39</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55783</td>
+				<td class="col_description">RAIBA HENNDORF AM WALLERSEE</td>
+				<td class="col_zip">5302</td>
+				<td class="col_city">HENNDORF AM WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 63</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55763</td>
+				<td class="col_description">RAIBA KOESTENDORF-NEUMARKT</td>
+				<td class="col_zip">5205</td>
+				<td class="col_city">SCHLEEDORF</td>
+				<td class="col_street">DORF 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55743</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINZER GASSE 76</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55733</td>
+				<td class="col_description">RAIFFEISENKASSE HALLWANG</td>
+				<td class="col_zip">5300</td>
+				<td class="col_city">HALLWANG</td>
+				<td class="col_street">WIENER BUNDESSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55713</td>
+				<td class="col_description">RAIBA SALZBURG MAXGLAN</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55703</td>
+				<td class="col_description">RAIFFEISENBANK ANTHERING</td>
+				<td class="col_zip">5102</td>
+				<td class="col_city">ANTHERING</td>
+				<td class="col_street">SALZBURGER STRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55693</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5026</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55683</td>
+				<td class="col_description">RAIFFEISENKASSE KUCHL</td>
+				<td class="col_zip">5431</td>
+				<td class="col_city">KUCHL</td>
+				<td class="col_street">RAIFFEISENSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55673</td>
+				<td class="col_description">RAIFFEISENBANK SAALFELDEN</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">LOFERERSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55663</td>
+				<td class="col_description">RAIFFEISENBANK TAMSWEG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">KIRCHENGASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55653</td>
+				<td class="col_description">RAIFFEISENBANK OBERALM-PUCH</td>
+				<td class="col_zip">5411</td>
+				<td class="col_city">OBERALM</td>
+				<td class="col_street">KAHLSPERGSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55643</td>
+				<td class="col_description">RB ANNABERG-LUNGOETZ</td>
+				<td class="col_zip">5523</td>
+				<td class="col_city">LUNGOETZ</td>
+				<td class="col_street">GAPPEN 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55623</td>
+				<td class="col_description">RAIBA SAALBACH-HINTERGLEMM</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">AM DORFPLATZ 311</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55613</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5325</td>
+				<td class="col_city">PLAINFELD</td>
+				<td class="col_street">PLAINFELD 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55603</td>
+				<td class="col_description">RAIBA BERNDORF-SEEHAM</td>
+				<td class="col_zip">5164</td>
+				<td class="col_city">SEEHAM</td>
+				<td class="col_street">DORF 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55593</td>
+				<td class="col_description">RAIBA ST. JOHANN IM PONGAU</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">ING.-LUDWIG-PECH-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55583</td>
+				<td class="col_description">RAIBA KOESTENDORF-NEUMARKT</td>
+				<td class="col_zip">5203</td>
+				<td class="col_city">KOESTENDORF</td>
+				<td class="col_street">LANDESSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55573</td>
+				<td class="col_description">RAIBA OBERTRUM-MATTSEE</td>
+				<td class="col_zip">5163</td>
+				<td class="col_city">MATTSEE</td>
+				<td class="col_street">SALZBURGER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55563</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5424</td>
+				<td class="col_city">VIGAUN</td>
+				<td class="col_street">AM DORFPLATZ 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55553</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">ROBERTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55543</td>
+				<td class="col_description">RAIFFEISENBANK SEEKIRCHEN</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55533</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">BAHNHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55513</td>
+				<td class="col_description">RAIFFEISENBANK LEOGANG</td>
+				<td class="col_zip">5771</td>
+				<td class="col_city">LEOGANG</td>
+				<td class="col_street">LEOGANG 65</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55493</td>
+				<td class="col_description">RAIFFEISENBANK UNKEN</td>
+				<td class="col_zip">5091</td>
+				<td class="col_city">UNKEN</td>
+				<td class="col_street">NIEDERLAND 103</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55483</td>
+				<td class="col_description">RAIBA EUGENDORF-PLAINFELD</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">DORF 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55473</td>
+				<td class="col_description">RAIBA ST. JOHANN IM PONGAU</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">ING.-LUDWIG-PECH-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55463</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE-SCHUETTDORF</td>
+				<td class="col_street">KITZSTEINHORNSTRASSE 12-14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55453</td>
+				<td class="col_description">RAIBA WALS-HIMMELREICH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">LOIGERSTRASSE 89</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55443</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KAISER-FRANZ-PLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55433</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5350</td>
+				<td class="col_city">STROBL</td>
+				<td class="col_street">STROBL 275</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55423</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5330</td>
+				<td class="col_city">FUSCHL/SEE</td>
+				<td class="col_street">DORFPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55413</td>
+				<td class="col_description">RAIKA GOLLING-SCHEFFAU-KELLAU</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">GOLLING</td>
+				<td class="col_street">MARKT 45</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55403</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALOIS-STOCKINGER-STRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55393</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">NONNTALER HAUPTSTRASSE 67</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55373</td>
+				<td class="col_description">RAIBA WALS-HIMMELREICH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">HAUPTSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55363</td>
+				<td class="col_description">RAIFFEISENBANK SEEKIRCHEN</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55343</td>
+				<td class="col_description">RAIBA ST. MICHAEL-OBERLUNGAU</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MARGARETHEN/LUNGAU</td>
+				<td class="col_street">ST. MARGARETHEN 69</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55333</td>
+				<td class="col_description">RAIFFEISENBANK WERFEN</td>
+				<td class="col_zip">5451</td>
+				<td class="col_city">TENNECK</td>
+				<td class="col_street">BUNDESSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55323</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5421</td>
+				<td class="col_city">KRISPL</td>
+				<td class="col_street">GAISSAU 200</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55313</td>
+				<td class="col_description">RAIBA ST.VEIT-SCHWARZACH</td>
+				<td class="col_zip">5620</td>
+				<td class="col_city">SCHWARZACH IM PONGAU</td>
+				<td class="col_street">SALZBURGER STRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55303</td>
+				<td class="col_description">RAIFFEISENBANK THALGAU</td>
+				<td class="col_zip">5303</td>
+				<td class="col_city">THALGAU</td>
+				<td class="col_street">MARKTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55293</td>
+				<td class="col_description">RAIBA ST. MICHAEL-OBERLUNGAU</td>
+				<td class="col_zip">5583</td>
+				<td class="col_city">MUHR</td>
+				<td class="col_street">VORDERMUHR 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55283</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">BR 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55273</td>
+				<td class="col_description">RAIBA ST. MICHAEL-OBERLUNGAU</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MICHAEL/LUNGAU</td>
+				<td class="col_street">MARKTSTRASSE 242</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55253</td>
+				<td class="col_description">RB LAMPRECHTSHAUSEN-BUERMOOS</td>
+				<td class="col_zip">5111</td>
+				<td class="col_city">BUERMOOS</td>
+				<td class="col_street">IGNAZ-GLASER-STRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55243</td>
+				<td class="col_description">RAIFFEISENBANK ST. GILGEN</td>
+				<td class="col_zip">5340</td>
+				<td class="col_city">ST. GILGEN</td>
+				<td class="col_street">MOZARTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55233</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ELISABETHSTRASSE 38</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55223</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">SALZACHTALSTRASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55203</td>
+				<td class="col_description">RAIFFEISENBANK ANIF-NIEDERALM</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">ANIF</td>
+				<td class="col_street">ANIFER STRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55193</td>
+				<td class="col_description">RAIFFEISENKASSE KRIMML</td>
+				<td class="col_zip">5743</td>
+				<td class="col_city">KRIMML</td>
+				<td class="col_street">OBERKRIMML 93</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55173</td>
+				<td class="col_description">RAIFFEISENBANK HALLEIN</td>
+				<td class="col_zip">5421</td>
+				<td class="col_city">ADNET</td>
+				<td class="col_street">ADNET 78</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55153</td>
+				<td class="col_description">RAIFFEISENBANK TAXENBACH</td>
+				<td class="col_zip">5660</td>
+				<td class="col_city">TAXENBACH</td>
+				<td class="col_street">RAIFFEISENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55143</td>
+				<td class="col_description">RAIBA RADSTADT-UNTERTAUERN</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">RADSTADT</td>
+				<td class="col_street">STADTPLATZ 6/7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55133</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55123</td>
+				<td class="col_description">RB LAMPRECHTSHAUSEN-BUERMOOS</td>
+				<td class="col_zip">5112</td>
+				<td class="col_city">LAMPRECHTSHAUSEN</td>
+				<td class="col_street">HAUPTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55113</td>
+				<td class="col_description">RAIBA MAISHOFEN-THUMERSBACH</td>
+				<td class="col_zip">5751</td>
+				<td class="col_city">MAISHOFEN</td>
+				<td class="col_street">ANTON-FAISTAUER-PLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">55103</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5061</td>
+				<td class="col_city">ELSBETHEN</td>
+				<td class="col_street">F.-W-RAIFFEISENSTRASSE 6a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52965</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 158</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52745</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52265</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 61</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52025</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 110</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51555</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51545</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 78</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51535</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 158</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51225</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">SEEGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51205</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51135</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">SALZACHTAL BUNDESSTR. SUED ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51065</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SAMERGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50255</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">SALZBURGER STRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50235</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50215</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 61</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48513</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">BRUDERLOCHWEG 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48503</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">KLETZLGUTWEG, INTERSPAR 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48493</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48483</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS</td>
+				<td class="col_street">BUNDESSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48473</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS</td>
+				<td class="col_street">BUNDESSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48463</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">RUPERTUSWEG, ROSENSTATTER 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48453</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">BR 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48443</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT</td>
+				<td class="col_street">HAUPTSTRASSE 40</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48433</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5542</td>
+				<td class="col_city">FLACHAU</td>
+				<td class="col_street">UNTERBERGGASSE, 8ER JET ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48423</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">POSTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48413</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">POSTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48403</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48393</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">MOOSFELDSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48383</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">IGNAZ-HARRER-STRASSE 79a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48373</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">IGNAZ-HARRER-STRASSE 79a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48353</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">GASTEINER STRASSE 39</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48343</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">HINTERGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48333</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">HINTERGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48323</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">DREIFALTIGKEITSPLATZ 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48313</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">DREIFALTIGKEITSPLATZ 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48303</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48293</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48283</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48273</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">F 18-20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48263</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48253</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48243</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48233</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48223</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48213</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5562</td>
+				<td class="col_city">OBERTAUERN</td>
+				<td class="col_street">RINGSTRASSE, EKZ FREUDENHAUS 210</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48203</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MICHAEL/LUNGAU</td>
+				<td class="col_street">POSTSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48193</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MICHAEL/LUNGAU</td>
+				<td class="col_street">POSTSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48183</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">PETERSBRUNNSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48173</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">PETERSBRUNNSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48163</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">PETERSBRUNNSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48153</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINDHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48143</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINDHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48133</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RESIDENZPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48123</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RESIDENZPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48113</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RESIDENZPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48103</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48093</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48083</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5431</td>
+				<td class="col_city">KUCHL</td>
+				<td class="col_street">MARKT 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48073</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5340</td>
+				<td class="col_city">ST. GILGEN</td>
+				<td class="col_street">ABERSEESTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48071</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AM MESSEZENTRUM, FOYER MITTE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48063</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">POSTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48053</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48043</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">HAUPTSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48033</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">ALMERSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48023</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">KORNSTEINPLATZ 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48013</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">MOOSFELDSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">48003</td>
+				<td class="col_description">HYPO-BANK SALZBURG</td>
+				<td class="col_zip">5081</td>
+				<td class="col_city">ANIF</td>
+				<td class="col_street">WALDBADSTRASSE, MAXIMARKT 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">47951</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">PRAMERPLATZ 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">47941</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">PRAMERPLATZ 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46901</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AM MESSEZENTRUM 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46721</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE, EUROPAPARK 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46171</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">BAHNHOFGASSE 18-20</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">45411</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AM MESSEZENTRUM 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">45291</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE, IRS, VESUV 14</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">44391</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">SCHMITTENSTRASSE, TALSTATION 119</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">44381</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5702</td>
+				<td class="col_city">SCHUETTDORF</td>
+				<td class="col_street">SALZACHTALBUNDESSTRASSE, AREITBAHN 22</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">43631</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">OTTO-HOLZBAUER-STRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">43381</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STADIONSTRASSE,RED BULL 2-3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">43161</td>
+				<td class="col_description">DENIZBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHALLMOOSER HAUPTSTRASSE, TOP 2 10</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">42491</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">KITZSTEINHORNST.,MEDIAMARKT 40</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">42101</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">RADSTADT</td>
+				<td class="col_street">SALZBURGER STRASSE 14</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41413</td>
+				<td class="col_description">RAIFFEISENBANK LOCHEN</td>
+				<td class="col_zip">5166</td>
+				<td class="col_city">PERWANG</td>
+				<td class="col_street">HAUPTSTRASSE 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">40351</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ST.-JULIEN-STRASSE 12</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">40341</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ST.-JULIEN-STRASSE 12</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">37761</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EBERHARD-FUGGER-STR.,PASCHA 9</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">33211</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">ZOLLSTRASSE 77</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">33131</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">KITZSTEINHORNSTRASSE 27</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">32811</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">ROBERTPLATZ 4</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">31051</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">SCHWARZENBERG-KASERNE ?</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">30091</td>
+				<td class="col_description">ONB SPAR- UND VORSCHUSSVEREIN</td>
+				<td class="col_zip">5027</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">FRANZ-JOSEF-STRASSE 18</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28242</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">MONDSEERSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28142</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5023</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MINNESHEIMSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28112</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">WAGRAINER STRASSE, OMV VIVA SHOP 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28102</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">SANKT MICHAEL IM LUNGAU</td>
+				<td class="col_street">BUNDESSTRASSE, OMV VIVA SHOP 112</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28092</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">NONNTALER STRASSE 53a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28062</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">BUNDESSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28052</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">BRUCKER BUNDESSTRASSE 108</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27562</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">SALZBURGER STRASSE 36</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27472</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26882</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">BESSARABIERSTRASSE 72</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26872</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNERSTRASSE 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26681</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BOECKSTEINER BUNDESSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26352</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE 86</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26331</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5302</td>
+				<td class="col_city">HENNDORF</td>
+				<td class="col_street">LAGERHAUSSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25572</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">WIMMSIEDLUNG/RUPERTUSSTRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25562</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5620</td>
+				<td class="col_city">SCHWARZWACH</td>
+				<td class="col_street">SALZBURGER STRASSE 58</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25552</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHILLERSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25542</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 85</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25532</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 142</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25522</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 106</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25512</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5162</td>
+				<td class="col_city">OBERTRUM</td>
+				<td class="col_street">SALZBURGER STRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25502</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">NEUFAHRN 71</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25492</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5112</td>
+				<td class="col_city">LAMPRECHTSHAUSEN</td>
+				<td class="col_street">SALZBURGER STRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25482</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">GOLLING</td>
+				<td class="col_street">AUTOBAHN GOLLING OST, TOURAST ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25472</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">OBERNDORFER STRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25462</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">BERG-SAM 22A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25381</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5733</td>
+				<td class="col_city">BRAMBERG</td>
+				<td class="col_street">DORFSTRASSE 69</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24961</td>
+				<td class="col_description">VOLKSBANK SALZBURG EG</td>
+				<td class="col_zip">5771</td>
+				<td class="col_city">LEOGANG</td>
+				<td class="col_street">LEOGANG 62</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24651</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">VOGELWEIDERSTRASSE, PORSCHE SALZBURG 75</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24562</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KLESSHEIMER ALLEE 104</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24552</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">SALZBURGER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24422</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAXGLANER HAUPTSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24372</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">HOFHAYMERALLEE 9-11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24362</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">RATHAUSPLATZ ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24332</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BAHNHOFSPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24322</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KIRCHPLATZ 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24002</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5550</td>
+				<td class="col_city">RADSTADT</td>
+				<td class="col_street">STADTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23932</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 59</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23922</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 47</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23862</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHUMACHERSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23691</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">ZELLER STRASSE 11</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23671</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">SALZBURGER STRASSE 5</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23661</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 4</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23402</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23262</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23192</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">UNTERER MARKT 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23142</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5090</td>
+				<td class="col_city">LOFER</td>
+				<td class="col_street">LOFER 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23032</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GAISBERGSTRASSE 11a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22982</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">STADTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22831</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ETRICHSTRASSE 3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22492</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21611</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">SEEGASSE 3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21561</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 98</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20471</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KURGARTENSTRASSE 7</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20461</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">LINZER BUNDESSTRASSE 21</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20061</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">KIRCHENGASSE 90</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20021</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5440</td>
+				<td class="col_city">GOLLING</td>
+				<td class="col_street">MARKT 85</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20011</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 14</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19991</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAXGLANER HAUPTSTRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19971</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GRAF-ZEPPELIN-PLATZ 19</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19961</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">BERCHTESGADNER STRASSE 11</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19831</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 55</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19771</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19531</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">BAHNHOFSTRASSE 10</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19521</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5753</td>
+				<td class="col_city">SAALBACH</td>
+				<td class="col_street">SAALBACH 245</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19511</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5761</td>
+				<td class="col_city">MARIA ALM</td>
+				<td class="col_street">MARIA ALM 5</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">19151</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KURGARTENSTRASSE 27</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">18581</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">LEOGANGER STRASSE,EKZ 18-28</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17392</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS</td>
+				<td class="col_street">METZGERWEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16701</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">THUNSTRASSE 13</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16662</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">STADTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16652</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">MARKTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16642</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5702</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">BRUCKER BUNDESTRASSE 49a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16632</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5710</td>
+				<td class="col_city">KAPRUN</td>
+				<td class="col_street">SIGMUND-THUN-STRASSE 30a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16622</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">DREIFALTIGKEITSGASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16592</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5035</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 95</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16452</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHUMACHERSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16182</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16132</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5640</td>
+				<td class="col_city">BAD GASTEIN</td>
+				<td class="col_street">BAHNHOFPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16062</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5073</td>
+				<td class="col_city">WALS-HIMMELREICH</td>
+				<td class="col_street">BUNDESSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16052</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5073</td>
+				<td class="col_city">WALS-HIMMELREICH</td>
+				<td class="col_street">BUNDESSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15572</td>
+				<td class="col_description">SPARKASSE SALZKAMMERGUT AG</td>
+				<td class="col_zip">5350</td>
+				<td class="col_city">STROBL</td>
+				<td class="col_street">ISCHLER STRASSE 126</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15442</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">DREIFALTIGKEITSGASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15181</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/SALZBURG</td>
+				<td class="col_street">SCHLOSS KLESSHEIM ?</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14961</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 54</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14932</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5301</td>
+				<td class="col_city">EUGENDORF</td>
+				<td class="col_street">SALZBURGER STRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14532</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5562</td>
+				<td class="col_city">OBERTAUERN</td>
+				<td class="col_street">OBERTAUERN 113</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14492</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5630</td>
+				<td class="col_city">BAD HOFGASTEIN</td>
+				<td class="col_street">KIRCHPLATZ 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14402</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAXGLANER HAUPTSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14302</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">EUROPASTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14147</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GETREIDEGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14137</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GETREIDEGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12862</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5741</td>
+				<td class="col_city">NEUKIRCHEN</td>
+				<td class="col_street">MARKTSTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12852</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5733</td>
+				<td class="col_city">BRAMBERG</td>
+				<td class="col_street">DORFSTRASSE 21</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12582</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5021</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12427</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GETREIDEGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10762</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5570</td>
+				<td class="col_city">MAUTERNDORF</td>
+				<td class="col_street">MAUTERNDORF 393</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10722</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5580</td>
+				<td class="col_city">TAMSWEG</td>
+				<td class="col_street">MARKTPLATZ 135</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10712</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5582</td>
+				<td class="col_city">ST. MICHAEL/LUNGAU</td>
+				<td class="col_street">MARKTSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10482</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">GAISBERGSTRASSE 11a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">9392</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5730</td>
+				<td class="col_city">MITTERSILL</td>
+				<td class="col_street">MARKTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">9302</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5500</td>
+				<td class="col_city">BISCHOFSHOFEN</td>
+				<td class="col_street">SALZBURGER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">9232</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5026</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">AIGNER STRASSE 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8882</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8872</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">INNSBRUCKER BUNDESSTRASSE 95</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8742</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5021</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALTER MARKT 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8632</td>
+				<td class="col_description">SPARKASSE MITTERSILL</td>
+				<td class="col_zip">5723</td>
+				<td class="col_city">UTTENDORF/PINZGAU</td>
+				<td class="col_street">ALTE BUNDESSTRASSE 287</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8342</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5441</td>
+				<td class="col_city">ABTENAU</td>
+				<td class="col_street">MARKT 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8312</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5671</td>
+				<td class="col_city">BRUCK/GROSSGLOCKNERSTRASSE</td>
+				<td class="col_street">GLOCKNERSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8292</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5611</td>
+				<td class="col_city">GROSSARL</td>
+				<td class="col_street">MARKT 48</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8272</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5163</td>
+				<td class="col_city">MATTSEE</td>
+				<td class="col_street">SPARKASSENWEG ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8262</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5340</td>
+				<td class="col_city">ST. GILGEN</td>
+				<td class="col_street">MOZARTPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8252</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5602</td>
+				<td class="col_city">WAGRAIN</td>
+				<td class="col_street">MARKT 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8242</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5702</td>
+				<td class="col_city">SCH</td>
+				<td class="col_street">BRUCKNER BUNDESSTRASSE 49a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7972</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5111</td>
+				<td class="col_city">B</td>
+				<td class="col_street">PATER-FELIX-PLATZ 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7962</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5400</td>
+				<td class="col_city">HALLEIN</td>
+				<td class="col_street">UNTERER MARKT 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7572</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5091</td>
+				<td class="col_city">UNKEN</td>
+				<td class="col_street">UNKEN 92</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7562</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5651</td>
+				<td class="col_city">LEND</td>
+				<td class="col_street">LEND 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7552</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5082</td>
+				<td class="col_city">GR</td>
+				<td class="col_street">DR.-RICHARD-HARTMANN-STRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7542</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5084</td>
+				<td class="col_city">GROSSGMAIN</td>
+				<td class="col_street">SALZBURGER STRASSE 142</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7492</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5201</td>
+				<td class="col_city">SEEKIRCHEN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7452</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5411</td>
+				<td class="col_city">OBERALM</td>
+				<td class="col_street">BARTLWIRTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7442</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5202</td>
+				<td class="col_city">NEUMARKT/WALLERSEE</td>
+				<td class="col_street">KIRCHENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7412</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5431</td>
+				<td class="col_city">KUCHL</td>
+				<td class="col_street">MARKT 45</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7372</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">BESSARABIERSTRASSE 72</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7371</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 106</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7362</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5110</td>
+				<td class="col_city">OBERNDORF</td>
+				<td class="col_street">SALBURGER STRASSE 36</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7342</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5505</td>
+				<td class="col_city">M</td>
+				<td class="col_street">M 331</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7332</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5023</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MAYRWIES 46</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7292</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5700</td>
+				<td class="col_city">ZELL/SEE</td>
+				<td class="col_street">DREIFALTIGKEITSGASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7272</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5101</td>
+				<td class="col_city">BERGHEIM</td>
+				<td class="col_street">METZGERSTRASSE 48</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7262</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5532</td>
+				<td class="col_city">FILZMOOS</td>
+				<td class="col_street">NEUBERG 128</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7242</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5542</td>
+				<td class="col_city">FLACHAU</td>
+				<td class="col_street">FLACHAUER STRASSE 159</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7222</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5322</td>
+				<td class="col_city">HOF</td>
+				<td class="col_street">WOLFGANGSEESTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7212</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5071</td>
+				<td class="col_city">WALS/HIMMELREICH</td>
+				<td class="col_street">METZGERWEG 414</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7182</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5620</td>
+				<td class="col_city">SCHWARZACH/PONGAU</td>
+				<td class="col_street">SPARKASSENPLATZ ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7172</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">STERNECKSTRASSE 59</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7162</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">S 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7152</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RUDOLF-BIEBL-STRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7132</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHUMACHERSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7131</td>
+				<td class="col_description">VOLKSBANK SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ST.-JULIEN-STRASSE 12</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7122</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">KLESSHEIMER ALLEE 104</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7092</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">REIMSSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7082</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7072</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 47</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7022</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5600</td>
+				<td class="col_city">ST. JOHANN/PONGAU</td>
+				<td class="col_street">HAUPTSTRASSE 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5093</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">ALPENSTRASSE 48</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5083</td>
+				<td class="col_description">RAIFFEISENBANK HOF</td>
+				<td class="col_zip">5322</td>
+				<td class="col_city">HOF</td>
+				<td class="col_street">WOLFGANGSEESTRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5063</td>
+				<td class="col_description">RAIBA OBERTRUM-MATTSEE</td>
+				<td class="col_zip">5162</td>
+				<td class="col_city">OBERTRUM AM SEE</td>
+				<td class="col_street">HAUPTSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5043</td>
+				<td class="col_description">RAIFFEISENBANK STRASSWALCHEN</td>
+				<td class="col_zip">5204</td>
+				<td class="col_city">STRASSWALCHEN</td>
+				<td class="col_street">SALZBURGERSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5033</td>
+				<td class="col_description">RAIFFEISENBANK SAALFELDEN</td>
+				<td class="col_zip">5760</td>
+				<td class="col_city">SAALFELDEN</td>
+				<td class="col_street">LOFERERSTRASSE 5A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5023</td>
+				<td class="col_description">RAIFFEISENBANK GASTEIN</td>
+				<td class="col_zip">5632</td>
+				<td class="col_city">DORFGASTEIN</td>
+				<td class="col_street">DORFGASTEIN 175</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5013</td>
+				<td class="col_description">RAIBA SALZBURG-LIEFERING</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">MUENCHNER BUNDESSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5003</td>
+				<td class="col_description">RAIFFEISENVERBAND SALZBURG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SCHWARZSTRASSE 13-15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3751</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">SUEDTIROLER PLATZ 6</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1311</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">5020</td>
+				<td class="col_city">SALZBURG</td>
+				<td class="col_street">RAINERSTRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">663</td>
+				<td class="col_description">RAIFFEISENBANK LOCHEN</td>
+				<td class="col_zip">5163</td>
+				<td class="col_city">PALTING</td>
+				<td class="col_street">PALTING 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">602</td>
+				<td class="col_description">SALZBURGER SPARKASSE BANK AG</td>
+				<td class="col_zip">5541</td>
+				<td class="col_city">ALTENMARKT/PONGAU</td>
+				<td class="col_street">MARKTPLATZ 80</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+</xml>

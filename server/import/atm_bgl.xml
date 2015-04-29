@@ -1,0 +1,2314 @@
+<xml>
+			<tr>
+				<td class="col_atmnumber">17400216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">HAUPTPLATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17400116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">HAUPTPLATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17210216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">BRUNNENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17210116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">BRUNNENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17202116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7202</td>
+				<td class="col_city">BAD SAUERBRUNN</td>
+				<td class="col_street">WIENER-NEUST 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17100216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL AM SEE</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17100116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL AM SEE</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">11607014</td>
+				<td class="col_description">GENERALI BANK</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">SCHULGASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030724</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7551</td>
+				<td class="col_city">STEGERSBACH</td>
+				<td class="col_street">HAUPTPLATZ 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030624</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTPATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030524</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030514</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030424</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7552</td>
+				<td class="col_city">STINATZ</td>
+				<td class="col_street">HAUPTPLATZ 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030324</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7431</td>
+				<td class="col_city">BAD TATZMANNSDORF</td>
+				<td class="col_street">JOSEF-HAYDN-PLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030314</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7431</td>
+				<td class="col_city">BAD TATZMANNSDORF</td>
+				<td class="col_street">JOSEF-HAYDN-PLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030224</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">HAUPTPLATZ 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030214</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">HAUPTPLATZ 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030114</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7503</td>
+				<td class="col_city">GROSSPETERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030034</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">MARKTPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030024</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">MARKTPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3030014</td>
+				<td class="col_description">VOLKSBANK SUEDBURGENLAND</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">MARKTPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91813</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91803</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">HAUPTPLATZ 26-28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91793</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91783</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">MARTINSPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91773</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7132</td>
+				<td class="col_city">FRAUENKIRCHEN</td>
+				<td class="col_street">AMTSHAUSGASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91763</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">2491</td>
+				<td class="col_city">NEUFELD/LEITHA</td>
+				<td class="col_street">HAUPTSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91753</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">NEUSIEDLER STRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91733</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTPLATZ 15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91723</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7201</td>
+				<td class="col_city">NEUDOERFL</td>
+				<td class="col_street">HAUPTSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91713</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">HAUPTPLATZ 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91703</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTPLATZ 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">91693</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTPLATZ 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72605</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">TEICHGASSE 1A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72595</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7221</td>
+				<td class="col_city">MARZ</td>
+				<td class="col_street">HAUPTSTRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72525</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">RUSTER STRASSE 85</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72515</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">HAUPTPLATZ 11-12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72195</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72025</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7122</td>
+				<td class="col_city">GOLS</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">62225</td>
+				<td class="col_description">OBERBANK AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">ESTERHAZYPLATZ 6A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52615</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7201</td>
+				<td class="col_city">NEUDOERFL/LEITHA</td>
+				<td class="col_street">HAUPTSTRASSE 66</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52415</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">MATTERSBURGER STRASSE 32</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52215</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">PFARRGASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52195</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51325</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50755</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">MATTERSBURGER STRASSE 32</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50695</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 47-49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50205</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50025</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">PFARRGASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46421</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7033</td>
+				<td class="col_city">POETTSCHING</td>
+				<td class="col_street">HAUPTPLATZ, GEMEINDEAMT 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46261</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTPLATZ 11</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46251</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 69</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">45301</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7111</td>
+				<td class="col_city">PARNDORF</td>
+				<td class="col_street">DESIGNER-OUTLET-STRASSE, BAUPHASE IV 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">42991</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">EUROPASTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">42981</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">EUROPASTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">40871</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">GRAZER STRASSE 15</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">40861</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">SPITALSTRASSE, LKH 32</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">38491</td>
+				<td class="col_description">VOLKSBANK OST</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">MARTINSPLATZ 5</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">37681</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7111</td>
+				<td class="col_city">PARNDORF</td>
+				<td class="col_street">DESIGN-OUTLET-STRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">37401</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7111</td>
+				<td class="col_city">PARNDORF</td>
+				<td class="col_street">KAELBER WEIDE, SHOP 3B-OCP 3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">36481</td>
+				<td class="col_description">COMMERZIALBANK</td>
+				<td class="col_zip">7212</td>
+				<td class="col_city">FORCHTENSTEIN</td>
+				<td class="col_street">HAUPTSTRASSE 59</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">36341</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">INGENIEUR-HANS-SYLVESTER-STR., KASERNE 6</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">35021</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">RUSTER STRASSE, EZE 86-100</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">34681</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTSTRASSE 6</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">31491</td>
+				<td class="col_description">COMMERZIALBANK</td>
+				<td class="col_zip">7024</td>
+				<td class="col_city">HIRM</td>
+				<td class="col_street">HAUPTSTRASSE 9</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">29093</td>
+				<td class="col_description">RAIBA OBERSCH</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">WIESFLECK</td>
+				<td class="col_street">WIESFLECK 186</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">29073</td>
+				<td class="col_description">RAIFFEISENBANK ILLMITZ</td>
+				<td class="col_zip">7142</td>
+				<td class="col_city">ILLMITZ</td>
+				<td class="col_street">HAUPTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28863</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">ROBERT-GRAFL-PLATZ, WKO 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28823</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7203</td>
+				<td class="col_city">WIESEN</td>
+				<td class="col_street">RATHAUSPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28813</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7323</td>
+				<td class="col_city">RITZING</td>
+				<td class="col_street">LANGE ZEILE 29</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28692</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7561</td>
+				<td class="col_city">HEILIGENKREUZ IM LAFNITZTAL</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28663</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28653</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28493</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAID 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28373</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">GUSTAV-DEGEN-GASSE 14-16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28143</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7093</td>
+				<td class="col_city">JOIS</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27012</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26973</td>
+				<td class="col_description">RAIFFEISENBANK LOCKENHAUS</td>
+				<td class="col_zip">7442</td>
+				<td class="col_city">LOCKENHAUS</td>
+				<td class="col_street">HAUPTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26953</td>
+				<td class="col_description">RB K</td>
+				<td class="col_zip">7562</td>
+				<td class="col_city">ELTENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26943</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">WIENER STRASSE, EKZ 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26783</td>
+				<td class="col_description">RAIBA SEEWINKEL-HANSAG</td>
+				<td class="col_zip">7163</td>
+				<td class="col_city">ANDAU</td>
+				<td class="col_street">HOECHTLGASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26763</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7331</td>
+				<td class="col_city">WEPPERSDORF</td>
+				<td class="col_street">RAIFFEISENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26733</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">FACHMARKTZENTRUM, SPAR-MARKT 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26723</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">ARENAPLATZ, ARENA 3/1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26713</td>
+				<td class="col_description">RB HORITSCHON</td>
+				<td class="col_zip">7312</td>
+				<td class="col_city">HORITSCHON</td>
+				<td class="col_street">G 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26711</td>
+				<td class="col_description">COMMERZIALBANK</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">JUDENGASSE 11</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26703</td>
+				<td class="col_description">RAIBA DONNERSKIRCHEN-OGGAU</td>
+				<td class="col_zip">7082</td>
+				<td class="col_city">DONNERSKIRCHEN</td>
+				<td class="col_street">HAUPTSTRASSE 39</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26693</td>
+				<td class="col_description">RAIBA DONNERSKIRCHEN-OGGAU</td>
+				<td class="col_zip">7082</td>
+				<td class="col_city">SCHUETZEN</td>
+				<td class="col_street">HAUPTSTRASSE 139</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26683</td>
+				<td class="col_description">RAIBA DONNERSKIRCHEN-OGGAU</td>
+				<td class="col_zip">7063</td>
+				<td class="col_city">OGGAU</td>
+				<td class="col_street">SEBASTIANSTRASSE 37</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26673</td>
+				<td class="col_description">RB APETLON</td>
+				<td class="col_zip">7143</td>
+				<td class="col_city">APETLON</td>
+				<td class="col_street">KIRCHENGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26653</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">8384</td>
+				<td class="col_city">MINIHOF-LIEBAU</td>
+				<td class="col_street">MINIHOF-LIEBAU 97</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26542</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7551</td>
+				<td class="col_city">STEGERSBACH</td>
+				<td class="col_street">HAUPTPLATZ 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26522</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">STOOB S 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26512</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">MICHAEL-KOCH-STRASSE 65</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26452</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7053</td>
+				<td class="col_city">HORNSTEIN</td>
+				<td class="col_street">SUEDOSTAUTOBAHN KM 37,85 ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26403</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">GUSTAV-DEGEN-GASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26363</td>
+				<td class="col_description">RB DREILAENDERECK BGLD-NORD</td>
+				<td class="col_zip">2424</td>
+				<td class="col_city">ZURNDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 40</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26353</td>
+				<td class="col_description">RB WEIDEN/SEE</td>
+				<td class="col_zip">7121</td>
+				<td class="col_city">WEIDEN AM SEE</td>
+				<td class="col_street">SCHULZEILE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26343</td>
+				<td class="col_description">RB ST. MARGARETHEN-TRAUSDORF</td>
+				<td class="col_zip">7064</td>
+				<td class="col_city">OSLIP</td>
+				<td class="col_street">HAUPTSTRASSE 99</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26333</td>
+				<td class="col_description">RB ST. MARGARETHEN-TRAUSDORF</td>
+				<td class="col_zip">7061</td>
+				<td class="col_city">TRAUSDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26323</td>
+				<td class="col_description">RB PODERSDORF AM SEE</td>
+				<td class="col_zip">7141</td>
+				<td class="col_city">PODERSDORF</td>
+				<td class="col_street">SEESTRASSE 81</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26313</td>
+				<td class="col_description">RB PODERSDORF AM SEE</td>
+				<td class="col_zip">7141</td>
+				<td class="col_city">PODERSDORF</td>
+				<td class="col_street">SEESTRASSE 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26303</td>
+				<td class="col_description">RB DREILAENDERECK BGLD-NORD</td>
+				<td class="col_zip">2422</td>
+				<td class="col_city">PAMA</td>
+				<td class="col_street">HAUPTPLATZ 6a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26283</td>
+				<td class="col_description">RB DREILAENDERECK BGLD-NORD</td>
+				<td class="col_zip">2425</td>
+				<td class="col_city">NICKELSDORF</td>
+				<td class="col_street">MITTLERE HAUPTSTRASSE 71</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26273</td>
+				<td class="col_description">RB DREILAENDERECK BGLD-NORD</td>
+				<td class="col_zip">2421</td>
+				<td class="col_city">KITTSEE</td>
+				<td class="col_street">HAUPTPLATZ 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26263</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">8383</td>
+				<td class="col_city">ST. MARTIN AN DER RAAB</td>
+				<td class="col_street">HAUPTPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26253</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">7561</td>
+				<td class="col_city">HEILIGENKREUZ IM LAFNITZTAL</td>
+				<td class="col_street">LAFNITZTAL 70</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26243</td>
+				<td class="col_description">RBB G</td>
+				<td class="col_zip">7534</td>
+				<td class="col_city">OLBENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 546</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26233</td>
+				<td class="col_description">RBB G</td>
+				<td class="col_zip">7521</td>
+				<td class="col_city">EBERAU</td>
+				<td class="col_street">MARKTSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26223</td>
+				<td class="col_description">RBB G</td>
+				<td class="col_zip">7474</td>
+				<td class="col_city">DEUTSCH SCHUETZEN</td>
+				<td class="col_street">HAUPTSTRASSE 195</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26033</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7301</td>
+				<td class="col_city">DEUTSCHKREUTZ</td>
+				<td class="col_street">HAUPTSTRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26032</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7121</td>
+				<td class="col_city">WEIDEN</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26023</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7301</td>
+				<td class="col_city">DEUTSCHKREUTZ</td>
+				<td class="col_street">HAUPTSTRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26013</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7033</td>
+				<td class="col_city">P</td>
+				<td class="col_street">HAUPTSTRASSE 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26003</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7032</td>
+				<td class="col_city">SIGLESS</td>
+				<td class="col_street">HAUPTSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25993</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">MARKTSTRASSE, TECHNOLOGIEZENTRUM 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25983</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7091</td>
+				<td class="col_city">BREITENBRUNN</td>
+				<td class="col_street">EISENST 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25973</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7092</td>
+				<td class="col_city">WINDEN</td>
+				<td class="col_street">HAUPTSTRASSE 36</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25963</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">WIENER STRASSE, EUROSPAR 65</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25953</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25943</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7041</td>
+				<td class="col_city">WULKAPRODERSDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25933</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7201</td>
+				<td class="col_city">NEUD</td>
+				<td class="col_street">HAUPTSTRASSE 26</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25923</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTSTRASSE 46</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25913</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">2491</td>
+				<td class="col_city">NEUFELD/LEITHA</td>
+				<td class="col_street">HAUPTSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25903</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">2491</td>
+				<td class="col_city">NEUFELD/LEITHA</td>
+				<td class="col_street">HAUPTSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25893</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7035</td>
+				<td class="col_city">STEINBRUNN</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25883</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">RAIFFEISENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25873</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7202</td>
+				<td class="col_city">BAD SAUERBRUNN</td>
+				<td class="col_street">SCHUBERTALLEE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25863</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7122</td>
+				<td class="col_city">GOLS</td>
+				<td class="col_street">HAUPTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25853</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7053</td>
+				<td class="col_city">HORNSTEIN</td>
+				<td class="col_street">RECHTE HAUPTZEILE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25843</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7011</td>
+				<td class="col_city">SIEGENDORF</td>
+				<td class="col_street">SCHAFTRIEBGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25833</td>
+				<td class="col_description">RAIFFEISENBANK HEIDEBODEN</td>
+				<td class="col_zip">7161</td>
+				<td class="col_city">ST. ANDRAE AM ZICKSEE</td>
+				<td class="col_street">WIENER STRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25823</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">7571</td>
+				<td class="col_city">RUDERSDORF</td>
+				<td class="col_street">ANTONIUSPLATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25723</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7344</td>
+				<td class="col_city">STOOB</td>
+				<td class="col_street">HAUPTSTRASSE 85</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25713</td>
+				<td class="col_description">RB OBERPULLENDORF EGEN</td>
+				<td class="col_zip">7322</td>
+				<td class="col_city">LACKENBACH</td>
+				<td class="col_street">HAUPTPLATZ 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25703</td>
+				<td class="col_description">RAIFFEISENBANK HORITSCHON</td>
+				<td class="col_zip">7304</td>
+				<td class="col_city">GROSSWARASDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25533</td>
+				<td class="col_description">RAIFFEISENBANK MOENCHHOF</td>
+				<td class="col_zip">7123</td>
+				<td class="col_city">MOENCHHOF</td>
+				<td class="col_street">RAIFFEISENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25483</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7511</td>
+				<td class="col_city">MISCHENDORF</td>
+				<td class="col_street">MISCHENDORF 21</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25473</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7512</td>
+				<td class="col_city">KOHFIDISCH</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25463</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7422</td>
+				<td class="col_city">RIEDLINGSDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25453</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7501</td>
+				<td class="col_city">UNTERWART</td>
+				<td class="col_street">UNTERWART 314</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25443</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7501</td>
+				<td class="col_city">UNTERWART</td>
+				<td class="col_street">BUNDESSTRASSE 316</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25433</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7412</td>
+				<td class="col_city">WOLFAU</td>
+				<td class="col_street">WOLFAU 319</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25423</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7461</td>
+				<td class="col_city">STADTSCHLAINING</td>
+				<td class="col_street">KIRCHENPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25413</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7431</td>
+				<td class="col_city">BAD TATZMANNSDORF</td>
+				<td class="col_street">JOSEF HAYDN-PLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25403</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">GRAFENSCHACHEN</td>
+				<td class="col_street">GRAFENSCHACHEN 98</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25393</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7411</td>
+				<td class="col_city">MARKT ALLHAU</td>
+				<td class="col_street">MARKT ALLHAU 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25383</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25373</td>
+				<td class="col_description">RAIFFEISENBANK FRAUENKIRCHEN</td>
+				<td class="col_zip">7132</td>
+				<td class="col_city">FRAUENKIRCHEN</td>
+				<td class="col_street">AMTSHAUSGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25363</td>
+				<td class="col_description">RAIBA SEEWINKEL-HANSAG</td>
+				<td class="col_zip">7151</td>
+				<td class="col_city">WALLERN</td>
+				<td class="col_street">BAHNSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25353</td>
+				<td class="col_description">RB ST. MARGARETHEN-TRAUSDORF</td>
+				<td class="col_zip">7062</td>
+				<td class="col_city">ST. MARGARETHEN/BGLD.</td>
+				<td class="col_street">PRANGERGASSE 6-8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25343</td>
+				<td class="col_description">RBB FREISTADT RUST</td>
+				<td class="col_zip">7071</td>
+				<td class="col_city">RUST</td>
+				<td class="col_street">RATHAUSPLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25333</td>
+				<td class="col_description">RBB O-B-M-W</td>
+				<td class="col_zip">7432</td>
+				<td class="col_city">OBERSCHUETZEN</td>
+				<td class="col_street">HAUPTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25323</td>
+				<td class="col_description">RAIFFEISENBANK NECKENMARKT</td>
+				<td class="col_zip">7311</td>
+				<td class="col_city">NECKENMARKT</td>
+				<td class="col_street">HERRENGASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25313</td>
+				<td class="col_description">RBB MOERBISCH AM SEE</td>
+				<td class="col_zip">7072</td>
+				<td class="col_city">MOERBISCH</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25303</td>
+				<td class="col_description">RAIFFEISENBANK LOCKENHAUS</td>
+				<td class="col_zip">7444</td>
+				<td class="col_city">PILGERSDORF</td>
+				<td class="col_street">GUENSER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">25293</td>
+				<td class="col_description">RAIFFEISENBANK ILLMITZ</td>
+				<td class="col_zip">7142</td>
+				<td class="col_city">ILLMITZ</td>
+				<td class="col_street">HAUPTPLATZ 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24823</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7503</td>
+				<td class="col_city">GROSSPETERSDORF</td>
+				<td class="col_street">HAUPTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24723</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7471</td>
+				<td class="col_city">RECHNITZ</td>
+				<td class="col_street">HAUPTPLATZ 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24722</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">2473</td>
+				<td class="col_city">POTZNEUSIEDL</td>
+				<td class="col_street">A6 ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24713</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7203</td>
+				<td class="col_city">WIESEN</td>
+				<td class="col_street">RATHAUSPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24712</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">GRAZER STRASSE 123</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24702</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">MATTERSBURGER STRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24693</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7022</td>
+				<td class="col_city">SCHATTENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 165</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24692</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7091</td>
+				<td class="col_city">BREITENBRUNN</td>
+				<td class="col_street">EISENSTAEDTER STRASSE 69</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24683</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7212</td>
+				<td class="col_city">FORCHTENSTEIN</td>
+				<td class="col_street">HAUPTSTRASSE 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24673</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7321</td>
+				<td class="col_city">RAIDING</td>
+				<td class="col_street">LISZTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24663</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7321</td>
+				<td class="col_city">LACKENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 60</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24653</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7371</td>
+				<td class="col_city">PIRINGSDORF</td>
+				<td class="col_street">BUNDESSTRASSE 39</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24652</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">BRUNNENPLATZ,ESTORIA CENTER 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24643</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24633</td>
+				<td class="col_description">RAIFFEISENBANK LUTZMANNSBURG</td>
+				<td class="col_zip">7361</td>
+				<td class="col_city">LUTZMANNSBURG</td>
+				<td class="col_street">HAUPTSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24623</td>
+				<td class="col_description">RAIFFEISENBANK LOCKENHAUS</td>
+				<td class="col_zip">7444</td>
+				<td class="col_city">MANNERSDORF</td>
+				<td class="col_street">GUENSER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24613</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7552</td>
+				<td class="col_city">STINATZ</td>
+				<td class="col_street">HAUPTSTRASSE 103</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24603</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7533</td>
+				<td class="col_city">OLLERSDORF</td>
+				<td class="col_street">HAUTPSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24593</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7543</td>
+				<td class="col_city">KUKMIRN</td>
+				<td class="col_street">UNTERE DORFSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24583</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7535</td>
+				<td class="col_city">ST. MICHAEL IM BURGENLAND</td>
+				<td class="col_street">HAUPTPLATZ 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24573</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7522</td>
+				<td class="col_city">STREM</td>
+				<td class="col_street">LINDENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24563</td>
+				<td class="col_description">RAIFFEISENBANK DRASSMARKT</td>
+				<td class="col_zip">7341</td>
+				<td class="col_city">MARKT ST. MARTIN</td>
+				<td class="col_street">KIRCHENPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24553</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7301</td>
+				<td class="col_city">DEUTSCHKREUTZ</td>
+				<td class="col_street">HAUPTSTRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24353</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">MARKTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24133</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">8382</td>
+				<td class="col_city">MOGERSDORF</td>
+				<td class="col_street">MOGERSDORF 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24063</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7222</td>
+				<td class="col_city">ROHRBACH</td>
+				<td class="col_street">HAUPTSTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24053</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7222</td>
+				<td class="col_city">ROHRBACH</td>
+				<td class="col_street">HAUPTSTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23983</td>
+				<td class="col_description">RAIFFEISENBANK FREISTADT RUST</td>
+				<td class="col_zip">7071</td>
+				<td class="col_city">RUST</td>
+				<td class="col_street">RATHAUSPLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23973</td>
+				<td class="col_description">RB DREILAENDERECK BGLD-NORD</td>
+				<td class="col_zip">2423</td>
+				<td class="col_city">DEUTSCH JAHRNDORF</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23933</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7212</td>
+				<td class="col_city">FORCHTENSTEIN</td>
+				<td class="col_street">HAUPTSTRASSE 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23723</td>
+				<td class="col_description">RB ST. MARGARETHEN-TRAUSDORF</td>
+				<td class="col_zip">7062</td>
+				<td class="col_city">ST. MARGARETHEN/BGLD.</td>
+				<td class="col_street">PRANGERGASSE 6-8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23712</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">BEIM ALTEN STADTTOR 1-3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23463</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23403</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23393</td>
+				<td class="col_description">RBB OBERPULLENDORF</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 34</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23333</td>
+				<td class="col_description">RAIFFEISENBANK DRASSMARKT</td>
+				<td class="col_zip">7343</td>
+				<td class="col_city">NEUTAL</td>
+				<td class="col_street">PR 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23181</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">HAUPTPLATZ 26-28</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23073</td>
+				<td class="col_description">RAIBA SEEWINKEL-HANSAG</td>
+				<td class="col_zip">7163</td>
+				<td class="col_city">ANDAU</td>
+				<td class="col_street">HOECHTLGASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22973</td>
+				<td class="col_description">RAIFFEISENBANK PARNDORF</td>
+				<td class="col_zip">2474</td>
+				<td class="col_city">GATTENDORF</td>
+				<td class="col_street">HAUPTPLATZ 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22643</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">7572</td>
+				<td class="col_city">DEUTSCH KALTENBRUNN</td>
+				<td class="col_street">DEUTSCH KALTENBRUNN 121</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22513</td>
+				<td class="col_description">RAIFFEISENBANK FRAUENKIRCHEN</td>
+				<td class="col_zip">7132</td>
+				<td class="col_city">FRAUENKIRCHEN</td>
+				<td class="col_street">AMTSHAUSGASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22383</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22323</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">RAIFFEISENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22313</td>
+				<td class="col_description">RLB BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">JOHANNES-VON-GOTT-PLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22303</td>
+				<td class="col_description">RBB MATTERSBURG</td>
+				<td class="col_zip">7223</td>
+				<td class="col_city">SIEGGRABEN</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22283</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">SCHULSTRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21743</td>
+				<td class="col_description">RAIBA MITTELBURGENLAND OST</td>
+				<td class="col_zip">7302</td>
+				<td class="col_city">NIKITSCH</td>
+				<td class="col_street">HAUPTSTRASSE 136</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21653</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7503</td>
+				<td class="col_city">GROSSPETERSDORF</td>
+				<td class="col_street">HAUPTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21163</td>
+				<td class="col_description">RAIFFEISENBANK HEIDEBODEN</td>
+				<td class="col_zip">7131</td>
+				<td class="col_city">HALBTURN</td>
+				<td class="col_street">BUDAPESTER STRASSE 4a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20763</td>
+				<td class="col_description">RAIFFEISENBANK DRASSMARKT</td>
+				<td class="col_zip">7372</td>
+				<td class="col_city">DRASSMARKT</td>
+				<td class="col_street">HAUPTSTRASSE 29</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">20753</td>
+				<td class="col_description">RAIBA SEEWINKEL-HANSAG</td>
+				<td class="col_zip">7162</td>
+				<td class="col_city">TADTEN</td>
+				<td class="col_street">RAIFFEISENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15971</td>
+				<td class="col_description">COMMERZIALBANK</td>
+				<td class="col_zip">7022</td>
+				<td class="col_city">SCHATTENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 29</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14207</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7551</td>
+				<td class="col_city">STEGERSBACH</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14021</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">MARTINSPLATZ 4</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13622</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13557</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7551</td>
+				<td class="col_city">STEGERSBACH</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13007</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7122</td>
+				<td class="col_city">GOLS</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12942</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">SCHULGASSE 44</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12767</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7503</td>
+				<td class="col_city">GROSSPETERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 47</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12597</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7301</td>
+				<td class="col_city">DEUTSCHKREUTZ</td>
+				<td class="col_street">HAUPTSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12487</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7202</td>
+				<td class="col_city">BAD SAUERBRUNN</td>
+				<td class="col_street">WIENER-NEUSTAEDTER-STRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12307</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">GUSTAV-DEGEN-GASSE 15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12142</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7053</td>
+				<td class="col_city">HORNSTEIN</td>
+				<td class="col_street">ORTSMITTE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12132</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7083</td>
+				<td class="col_city">PURBACH</td>
+				<td class="col_street">SCHULGASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12122</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7011</td>
+				<td class="col_city">SIEGENDORF</td>
+				<td class="col_street">HAUPTSTRASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12121</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">DORNBURGGASSE 80</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12112</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7001</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">BEIM ALTEN STADTTOR 1-3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12101</td>
+				<td class="col_description">VOLKSBANK OST</td>
+				<td class="col_zip">7122</td>
+				<td class="col_city">GOLS</td>
+				<td class="col_street">OBERE HAUPTSTRASSE 13</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10631</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7001</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">NEUSIEDLER STRASSE 33</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10621</td>
+				<td class="col_description">VOLKSBANK OST</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">FANNY-ELSSLER-GASSE 4</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8691</td>
+				<td class="col_description">VOLKSBANK OST</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8081</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTSTRASSE 6</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7841</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7210</td>
+				<td class="col_city">MATTERSBURG</td>
+				<td class="col_street">HAUPTPLATZ 11-12</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7142</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6212</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7111</td>
+				<td class="col_city">PARNDORF</td>
+				<td class="col_street">HAUPTSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6192</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7163</td>
+				<td class="col_city">ANDAU</td>
+				<td class="col_street">HAUPTGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4611</td>
+				<td class="col_description">HYPO-BANK BURGENLAND</td>
+				<td class="col_zip">7000</td>
+				<td class="col_city">EISENSTADT</td>
+				<td class="col_street">HAUPTSTRASSE 31</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4602</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7131</td>
+				<td class="col_city">HALBTURN</td>
+				<td class="col_street">WIENER STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4481</td>
+				<td class="col_description">BKS BANK AG</td>
+				<td class="col_zip">7350</td>
+				<td class="col_city">OBERPULLENDORF</td>
+				<td class="col_street">HAUPTPLATZ 1A</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4322</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7142</td>
+				<td class="col_city">ILLMITZ</td>
+				<td class="col_street">HAUPTPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4282</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7471</td>
+				<td class="col_city">RECHNITZ</td>
+				<td class="col_street">HERRENGASSE 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4132</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7092</td>
+				<td class="col_city">WINDEN/SEE</td>
+				<td class="col_street">STIFTSGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4072</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">2421</td>
+				<td class="col_city">KITTSEE</td>
+				<td class="col_street">JOSEPH-JOACHIM-PLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4062</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7132</td>
+				<td class="col_city">FRAUENKIRCHEN</td>
+				<td class="col_street">FRANZISKANERSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3233</td>
+				<td class="col_description">RAIFFEISENBANK DRASSMARKT</td>
+				<td class="col_zip">7332</td>
+				<td class="col_city">KOBERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 50</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3223</td>
+				<td class="col_description">RAIBA OBERSCHUETZEN-BERNSTEIN</td>
+				<td class="col_zip">7433</td>
+				<td class="col_city">MARIASDORF</td>
+				<td class="col_street">MARIASDORF 53</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3213</td>
+				<td class="col_description">RAIFFEISENBANK PAMHAGEN EGEN</td>
+				<td class="col_zip">7152</td>
+				<td class="col_city">PAMHAGEN</td>
+				<td class="col_street">KIRCHENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3173</td>
+				<td class="col_description">RAIFFEISENBANK PARNDORF</td>
+				<td class="col_zip">7111</td>
+				<td class="col_city">PARNDORF</td>
+				<td class="col_street">HAUPTSTRASSE 63</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3163</td>
+				<td class="col_description">RAIBA OBERSCHUETZEN-BERNSTEIN</td>
+				<td class="col_zip">7434</td>
+				<td class="col_city">BERNSTEIN</td>
+				<td class="col_street">HAUPTSTRASSE 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3133</td>
+				<td class="col_description">RAIFFEISENBANK PURBACH</td>
+				<td class="col_zip">7083</td>
+				<td class="col_city">PURBACH</td>
+				<td class="col_street">HAUPTSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3123</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">BRUCKGASSE 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3103</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7471</td>
+				<td class="col_city">RECHNITZ</td>
+				<td class="col_street">HAUPTPLATZ 20</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3073</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3053</td>
+				<td class="col_description">RAIFFEISEN-BEZ.BANK OBERWART</td>
+				<td class="col_zip">7400</td>
+				<td class="col_city">OBERWART</td>
+				<td class="col_street">WIENER STRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3023</td>
+				<td class="col_description">RAIFFEISENBEZIRKSBANK GUESSING</td>
+				<td class="col_zip">7551</td>
+				<td class="col_city">STEGERSBACH</td>
+				<td class="col_street">HERRENGASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3013</td>
+				<td class="col_description">RAIFFEISEN-B.BANK JENNERSDORF</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2592</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7423</td>
+				<td class="col_city">PINKAFELD</td>
+				<td class="col_street">HAUPTSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2582</td>
+				<td class="col_description">SPARKASSE HAINBURG-BRUCK</td>
+				<td class="col_zip">7100</td>
+				<td class="col_city">NEUSIEDL/SEE</td>
+				<td class="col_street">UNTERE HAUPTSTRASSE 7</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">762</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">7540</td>
+				<td class="col_city">GUESSING</td>
+				<td class="col_street">HAUPTPLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">752</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">8380</td>
+				<td class="col_city">JENNERSDORF</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+</xml>

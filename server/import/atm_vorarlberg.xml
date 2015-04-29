@@ -1,0 +1,3295 @@
+<xml>		
+			<tr>
+				<td class="col_atmnumber">20935034</td>
+				<td class="col_description">SPARDA VILLACH/INNSBRUCK</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16900216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SEESTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16900126</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SEESTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16900116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SEESTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16850216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">POSTSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16850126</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">POSTSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16803126</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">MARKTGASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16803116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">MARKTGASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16800216</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">BAHNHOFSTRASSE 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16800116</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">BAHNHOFSTRASSE 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">11606024</td>
+				<td class="col_description">GENERALI BANK</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">REICHSSTRASSE 126a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">11606014</td>
+				<td class="col_description">GENERALI BANK</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">QUELLENSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1908004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6991</td>
+				<td class="col_city">RIEZLERN</td>
+				<td class="col_street">WALSER STRASSE 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906414</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">DAMMSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906404</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">HOFSTEIGSTRASSE 2A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906214</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 31</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906204</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906014</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">G</td>
+				<td class="col_street">AM GARNMARKT 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1906004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1905204</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">H</td>
+				<td class="col_street">HAUPTSTRASSE 25</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1905004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">KAISER-FRANZ-JOSEF-STRASSE 4a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904604</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6863</td>
+				<td class="col_city">EGG</td>
+				<td class="col_street">WAELDERPARK 940</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904244</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MESSESTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904234</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MESSESTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904224</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MESSESTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904214</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MESSESTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904204</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MESSESTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1904004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">RATHAUSPLATZ 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1903804</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH AM ARLBERG</td>
+				<td class="col_street">LECH AM ARLBERG 138</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1903404</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">SCHULSTRASSE 6b</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1903224</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">JAKOB-STEMER-WEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1903214</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">SILBERTAL 332</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1903004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">AM POSTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1902404</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6807</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">CARINAGASSE 47-49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1902204</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1902004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">NEUSTADT 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1901604</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">LANDSTRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1901404</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HELDENDANKSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1900034</td>
+				<td class="col_description">HYPO BANK VORARLBERG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HYPO-PASSAGE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1900024</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">CARL-PEDENZ-STRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1900014</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HYPO-PASSAGE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1900004</td>
+				<td class="col_description">HYPO-BANK VORARLBERG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">ROEMERSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">113414</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">LUSTENAUER STRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">112514</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">FELDKIRCHER STRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111514</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">H</td>
+				<td class="col_street">HAUPTSTRASSE 29</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111414</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH</td>
+				<td class="col_street">DORF 199</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111214</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">NIBELUNGENSTRASSE 19</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111194</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">BUNDESSTRASSE 81</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111184</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">BUNDESSTRASSE 81</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">111014</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MARKTPLATZ 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110914</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6714</td>
+				<td class="col_city">N</td>
+				<td class="col_street">SONNENBERGSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110824</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">G</td>
+				<td class="col_street">IM BUCH 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110814</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">G</td>
+				<td class="col_street">IM BUCH 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110714</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">MARIA-THERESIEN-STRASSE 17a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110624</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">BAHNHOFSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110614</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">BAHNHOFSTRASS 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110514</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">WERDENBERGERSTRASSE 40</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110324</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">CHURERSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110314</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">CHURERSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110224</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">BAHNHOFSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110214</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">BAHNHOFSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110124</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6832</td>
+				<td class="col_city">R</td>
+				<td class="col_street">RAUTENSTRASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110114</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6832</td>
+				<td class="col_city">R</td>
+				<td class="col_street">RAUTENASTRASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110034</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110024</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">110014</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">101054</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">WERDENBERGSTRASSE 40</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89815</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">UNTERLINDEN 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89715</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">MARIAHILFERSTRASSE 45a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89465</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">IM BUCH 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89445</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">WERDENBERGERSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89335</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">BAHNHOFSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89325</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">KLOSTERGASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">89315</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KAISERSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82225</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">ST.-KARL-STRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82205</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KAISERSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82145</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ-VORKLOSTER</td>
+				<td class="col_street">MARIAHILFSTRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82135</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ-VORKLOSTER</td>
+				<td class="col_street">MARIAHILFSTRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82105</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">IM BUCH 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82085</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">UNTERLINDEN 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">82075</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">UNTERLINDEN 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72563</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6858</td>
+				<td class="col_city">BILDSTEIN</td>
+				<td class="col_street">DORF 71</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72553</td>
+				<td class="col_description">WALSER PRIVATBANK AG</td>
+				<td class="col_zip">6992</td>
+				<td class="col_city">HIRSCHEGG</td>
+				<td class="col_street">WALSER STRASSE 63</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72543</td>
+				<td class="col_description">WALSER PRIVATBANK AG</td>
+				<td class="col_zip">6991</td>
+				<td class="col_city">RIEZLERN</td>
+				<td class="col_street">WALSER STRASSE 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72533</td>
+				<td class="col_description">WALSER PRIVATBANK AG</td>
+				<td class="col_zip">6993</td>
+				<td class="col_city">MITTELBERG</td>
+				<td class="col_street">WALSER STRASSE 88</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72513</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6751</td>
+				<td class="col_city">BRAZ</td>
+				<td class="col_street">ARLBERGSTRASSE 66</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72503</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH GISINGEN</td>
+				<td class="col_street">HAUPTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72493</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH TISIS</td>
+				<td class="col_street">LIECHTENSTEINERSTRASSE 94</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72483</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH ALTENSTADT</td>
+				<td class="col_street">REICHSSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72473</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">DOMPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72463</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH TOSTERS</td>
+				<td class="col_street">ALBERWEG 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72453</td>
+				<td class="col_description">RAIFFEISENBANK LECH AM ARLBERG</td>
+				<td class="col_zip">6767</td>
+				<td class="col_city">WARTH</td>
+				<td class="col_street">WARTH 41</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72443</td>
+				<td class="col_description">RAIFFEISENBANK LECH AM ARLBERG</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH AM ARLBERG</td>
+				<td class="col_street">DORF 90</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72433</td>
+				<td class="col_description">RAIFFEISENBANK LECH AM ARLBERG</td>
+				<td class="col_zip">6763</td>
+				<td class="col_city">ZUERS</td>
+				<td class="col_street">ZUERS 493</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72423</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">HARDER STRASSE 70</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72413</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">SEESTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72403</td>
+				<td class="col_description">RB AU</td>
+				<td class="col_zip">6883</td>
+				<td class="col_city">AU</td>
+				<td class="col_street">LISSE 94</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72393</td>
+				<td class="col_description">RAIFFEISENBANK AU</td>
+				<td class="col_zip">6884</td>
+				<td class="col_city">DAMUELS</td>
+				<td class="col_street">KIRCHDORF 136</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72383</td>
+				<td class="col_description">RB AU</td>
+				<td class="col_zip">6886</td>
+				<td class="col_city">SCHOPPERNAU</td>
+				<td class="col_street">UNTERDORF 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72373</td>
+				<td class="col_description">RB AU</td>
+				<td class="col_zip">6888</td>
+				<td class="col_city">SCHROECKEN</td>
+				<td class="col_street">GEMEINDEHAUS/HEIMBODEN 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72363</td>
+				<td class="col_description">RB HOHENEMS</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">SCHILLERALLEE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72353</td>
+				<td class="col_description">RB HOHENEMS</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">SUTTERLUETHY/LUSTENAUERSTR. 125</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72343</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6754</td>
+				<td class="col_city">KLOESTERLE</td>
+				<td class="col_street">KLOESTERLE 61</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72333</td>
+				<td class="col_description">RAIFFEISENBANK BRAND</td>
+				<td class="col_zip">6708</td>
+				<td class="col_city">BRAND</td>
+				<td class="col_street">M 82</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72323</td>
+				<td class="col_description">RAIFFEISENBANK DALAAS</td>
+				<td class="col_zip">6752</td>
+				<td class="col_city">DALAAS</td>
+				<td class="col_street">KLOSTERTALERSTRASSE 70</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72303</td>
+				<td class="col_description">RAIFFEISENBANK WALD</td>
+				<td class="col_zip">6752</td>
+				<td class="col_city">WALD/ARLBERG</td>
+				<td class="col_street">ARLBERGSTRASSE 101</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72293</td>
+				<td class="col_description">RAIFFEISENBANK STUBEN</td>
+				<td class="col_zip">6762</td>
+				<td class="col_city">STUBEN</td>
+				<td class="col_street">NR. 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72283</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BUERSERBERG</td>
+				<td class="col_street">BODEN 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72273</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">SCHLOSSGASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72263</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">STIGLINGEN 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72253</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">ROHRBACH, FORACH 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72243</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">HATLERDORF, ARLBERGSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72233</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">AM RATHAUSPARK 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72223</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">KAISER-FRANZ-JSOEF-STRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72213</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">BAHNHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72203</td>
+				<td class="col_description">RB IM MONTAFON</td>
+				<td class="col_zip">6773</td>
+				<td class="col_city">VANDANS</td>
+				<td class="col_street">DORFSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72193</td>
+				<td class="col_description">RB IM MONTAFON</td>
+				<td class="col_zip">6774</td>
+				<td class="col_city">TSCHAGGUNS</td>
+				<td class="col_street">LATSCHAUSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72183</td>
+				<td class="col_description">RB IM MONTAFON</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">KIRCHPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72173</td>
+				<td class="col_description">RB IM MONTAFON</td>
+				<td class="col_zip">6787</td>
+				<td class="col_city">GARGELLEN</td>
+				<td class="col_street">HNR. 24a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72163</td>
+				<td class="col_description">RAIFFEISEN BANK IM MONTAFON</td>
+				<td class="col_zip">6791</td>
+				<td class="col_city">ST. GALLENKIRCH</td>
+				<td class="col_street">SILVRETTASTRASSE 3a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72153</td>
+				<td class="col_description">RB IM MONTAFON</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">DORFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72143</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">KELLHOFSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72133</td>
+				<td class="col_description">RB BREGENZ</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">BAHNHOF, FRITZ-MAIR-PLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72123</td>
+				<td class="col_description">RB GOETZIS</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">JUNKER-JONAS-PLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72113</td>
+				<td class="col_description">RB WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6712</td>
+				<td class="col_city">BLUDESCH-GAIS</td>
+				<td class="col_street">THOMASWEG,EKZ SUTTERLUETY 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72103</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6731</td>
+				<td class="col_city">SONNTAG</td>
+				<td class="col_street">BODEN 57</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72083</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6721</td>
+				<td class="col_city">THUERINGERBERG</td>
+				<td class="col_street">JAGDBERGSTRASSE 29</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72073</td>
+				<td class="col_description">RB WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6710</td>
+				<td class="col_city">NENZING</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72063</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6867</td>
+				<td class="col_city">EGG</td>
+				<td class="col_street">LOCO 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72053</td>
+				<td class="col_description">RB RANKWEIL</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">BUNDESSTRASSE7MERKURMARKT 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72043</td>
+				<td class="col_description">RAIBA HITTISAU</td>
+				<td class="col_zip">6952</td>
+				<td class="col_city">HITTISAU</td>
+				<td class="col_street">PLATZ 186</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72033</td>
+				<td class="col_description">RAIBA BEZAU</td>
+				<td class="col_zip">6870</td>
+				<td class="col_city">BEZAU</td>
+				<td class="col_street">PLATZ 398</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72023</td>
+				<td class="col_description">RAIBA MELLAU</td>
+				<td class="col_zip">6881</td>
+				<td class="col_city">MELLAU</td>
+				<td class="col_street">PLATZ 58</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">72013</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">H</td>
+				<td class="col_street">HAUPTSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71053</td>
+				<td class="col_description">RAIFFEISENBANK ALTACH</td>
+				<td class="col_zip">6844</td>
+				<td class="col_city">ALTACH</td>
+				<td class="col_street">ACHSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71043</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">SCHLOSSGASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71033</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">KIRCHPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71023</td>
+				<td class="col_description">RAIFFEISENBANK LECH AM ARLBERG</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH AM ARLBERG</td>
+				<td class="col_street">DORF 90</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71013</td>
+				<td class="col_description">RAIFFEISENLANDESBANK VBG.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">RHEINSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">71003</td>
+				<td class="col_description">RAIFFEISENLANDESBANK VBG.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">RHEINSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70993</td>
+				<td class="col_description">RAIBA BEZAU-MELLAU-BIZAU</td>
+				<td class="col_zip">6874</td>
+				<td class="col_city">BIZAU</td>
+				<td class="col_street">KIRCHPLATZ 390</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70983</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">HAUPTSTRASSE 52</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70973</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">REICHSSTRASSE 33</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70953</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6960</td>
+				<td class="col_city">BUCH</td>
+				<td class="col_street">HEIMEN 51</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70943</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6773</td>
+				<td class="col_city">VANDANS</td>
+				<td class="col_street">DORF 616</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70933</td>
+				<td class="col_description">RAIFFEISENBANK LEIBLACHTAL</td>
+				<td class="col_zip">6912</td>
+				<td class="col_city">HOERBRANZ</td>
+				<td class="col_street">HERIBRANDSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70923</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">BAHNHOFSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70913</td>
+				<td class="col_description">RAIBA VORDERBREGENZERWALD</td>
+				<td class="col_zip">6952</td>
+				<td class="col_city">SIBRATSGFAELL</td>
+				<td class="col_street">SIBRATSGFAELL 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70893</td>
+				<td class="col_description">RAIBA WEISSACHTAL-SULZBERG</td>
+				<td class="col_zip">6943</td>
+				<td class="col_city">RIEFENSBERG</td>
+				<td class="col_street">DORF 192</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70883</td>
+				<td class="col_description">RAIBA WEISSACHTAL-SULZBERG</td>
+				<td class="col_zip">6933</td>
+				<td class="col_city">DOREN</td>
+				<td class="col_street">KIRCHDORF 169</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70873</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6863</td>
+				<td class="col_city">EGG</td>
+				<td class="col_street">GROSSDORF 172</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70863</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">WERDENBERGERSTRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70833</td>
+				<td class="col_description">RAIFFEISENBANK RANKWEIL</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70813</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">ARLBERGSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70793</td>
+				<td class="col_description">RAIBA FRASTANZ-SATTEINS</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70783</td>
+				<td class="col_description">RAIBA FRASTANZ-SATTEINS</td>
+				<td class="col_zip">6822</td>
+				<td class="col_city">SCHNIFIS</td>
+				<td class="col_street">SCHNIFIS 54</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70773</td>
+				<td class="col_description">RAIFFEISENBANK LANGEN-THAL</td>
+				<td class="col_zip">6932</td>
+				<td class="col_city">LANGEN</td>
+				<td class="col_street">REICHARTEN 170</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70763</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">DORF 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70753</td>
+				<td class="col_description">RAIBA VORDERBREGENZERWALD</td>
+				<td class="col_zip">6942</td>
+				<td class="col_city">KRUMBACH</td>
+				<td class="col_street">DORF 100</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70733</td>
+				<td class="col_description">RAIBA VORDERBREGENZERWALD</td>
+				<td class="col_zip">6941</td>
+				<td class="col_city">LANGENEGG</td>
+				<td class="col_street">BACH 56</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70713</td>
+				<td class="col_description">RAIFFEISENBANK VORDERLAND</td>
+				<td class="col_zip">6832</td>
+				<td class="col_city">ZWISCHENWASSER</td>
+				<td class="col_street">ARKENSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70703</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6774</td>
+				<td class="col_city">TSCHAGGUNS</td>
+				<td class="col_street">LATSCHAUSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70693</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6851</td>
+				<td class="col_city">LINGENAU</td>
+				<td class="col_street">HOF 257</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70683</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6863</td>
+				<td class="col_city">EGG</td>
+				<td class="col_street">LOCO 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70663</td>
+				<td class="col_description">RAIBA BEZAU-MELLAU-BIZAU</td>
+				<td class="col_zip">6870</td>
+				<td class="col_city">BEZAU</td>
+				<td class="col_street">PLATZ 398</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70643</td>
+				<td class="col_description">RAIFFEISENBANK LEIBLACHTAL</td>
+				<td class="col_zip">6911</td>
+				<td class="col_city">LOCHAU</td>
+				<td class="col_street">LANDSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">70633</td>
+				<td class="col_description">RAIFFEISENBANK LEIBLACHTAL</td>
+				<td class="col_zip">6911</td>
+				<td class="col_city">LOCHAU</td>
+				<td class="col_street">LANDSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52635</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KORNMARKTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">52625</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KORNMARKTPLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">51285</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">RIEDGASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50905</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">SCHLOSSGRABEN 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50595</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50585</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">SCHILLERSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50565</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">KIRCHSTRASSE 16</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50535</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HELDENDANKSTRASSE 40</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">50065</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">HOECHST</td>
+				<td class="col_street">HAUPTSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">47621</td>
+				<td class="col_description">SCHELHAMMER &amp; SCHATTERA</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">PLATZ-DER-WIENER-SYMPHONIKER 3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">46241</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6706</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">ALMTEILWEG, ZIMBAPARK 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">45201</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">POSTSTRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">43621</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">SCHWEFEL,MERKUR 71</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41771</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MARKTPLATZ 5</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41341</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">DORFSTRASSE 11B</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41331</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">MONTAFONERSTRASSE 96B</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41321</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6791</td>
+				<td class="col_city">ST. GALLENKIRCH</td>
+				<td class="col_street">ST. GALLENKIRCH 198A</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">41301</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">BERGBAHNSTRASSE 22</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">39471</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MARKTSTRASSE, HARTLAUER 18A</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">39441</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">KOENIGSHOFSTRASSE, INTERSPAR 79</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">39421</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">LUSTENAUER STRASSE 49</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">37051</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">ACHSTRASSE,FACHHOCHSCHULE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">35151</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">HOFSTEIGSTRASSE 2</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">33411</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6991</td>
+				<td class="col_city">RIEZLERN</td>
+				<td class="col_street">WALSER STRASSE 37</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">32251</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">MARIA-THERESIEN-STRASSE 8</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">30821</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">30801</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6912</td>
+				<td class="col_city">HOERBRANZ</td>
+				<td class="col_street">LINDAUER STRASSE 63</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">30041</td>
+				<td class="col_description">ONB SPAR- UND VORSCHUSSVEREIN</td>
+				<td class="col_zip">6901</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">ANTON-SCHNEIDER-STRASSE 12</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">29331</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6881</td>
+				<td class="col_city">MELLAU</td>
+				<td class="col_street">UEBERMELLEN 78</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28962</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28952</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28942</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28702</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">REICHSSTRASSE 16a</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">28151</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">KRANKENHAUS ?</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27842</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">REICHSSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27432</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">STERNENPLATZ 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">27282</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6844</td>
+				<td class="col_city">ALTACH</td>
+				<td class="col_street">ACHSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26491</td>
+				<td class="col_description">DENIZBANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">ROEMERSTRASSE 1-3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26182</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">DORNBIRNER STRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26172</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6710</td>
+				<td class="col_city">NENZING</td>
+				<td class="col_street">BUNDESSTRASSE 77</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26162</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">HAG 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26152</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">GRINDLSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26142</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6911</td>
+				<td class="col_city">LOCHAU</td>
+				<td class="col_street">HOFRIEDENSTRASSE 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26132</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6754</td>
+				<td class="col_city">KLOESTERLE</td>
+				<td class="col_street">DANOEFEN 126</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26122</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6751</td>
+				<td class="col_city">INNERBRAZ</td>
+				<td class="col_street">ARLBERGSTRASSE 91</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26112</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">RHEINSTRASSE 24</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26102</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">FELDKIRCHER STRASSE ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26092</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6804</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">KOENIGSHOFSTRASSE 61</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26082</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">WALLENMAHD ?</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26072</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">SCHWEFEL 53</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26062</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">ARLBERGSTRASSE 135</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">26052</td>
+				<td class="col_description">ERSTE BANK</td>
+				<td class="col_zip">6861</td>
+				<td class="col_city">ALBERSCHWENDE</td>
+				<td class="col_street">HOF 978</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24232</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HELDENDANKSTRASSE 56B</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">24212</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23992</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23802</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">23592</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22311</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">KAISER-FRANZ-JOSEF-STRASSE 6A</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22301</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">HOFSTEIGSTRASSE 11</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">22061</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH/ARLBERG</td>
+				<td class="col_street">LECH/ARLBERG 352</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">21681</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">LANGENERSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">18071</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6870</td>
+				<td class="col_city">BEZAU</td>
+				<td class="col_street">BRUGG 35</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">18012</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17741</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6886</td>
+				<td class="col_city">SCHOPPERNAU</td>
+				<td class="col_street">UNTERDORF 2b</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17422</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">BAHNHOFSTRASSE 15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17412</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17402</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6706</td>
+				<td class="col_city">B</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17362</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">H</td>
+				<td class="col_street">DR.-SCHNEIDER-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17352</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">LUSTENAUERSTRASSE 44</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">17342</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">16091</td>
+				<td class="col_description">PAYLIFE BANK GMBH</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SYMPHONIKERPLATZ ?</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15792</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6842</td>
+				<td class="col_city">KOBLACH</td>
+				<td class="col_street">LETTEN 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15622</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6708</td>
+				<td class="col_city">BRAND</td>
+				<td class="col_street">MUEHLEDOERFLE 71</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">15602</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6793</td>
+				<td class="col_city">GASCHURN</td>
+				<td class="col_street">GASCHURN 22A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14862</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6710</td>
+				<td class="col_city">NENZING</td>
+				<td class="col_street">RAMSCHWAGPLATZ 6A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14562</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6764</td>
+				<td class="col_city">LECH/ARLBERG</td>
+				<td class="col_street">LECH/ARLBERG 352</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14552</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">ALBERWEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14462</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">ROHRBACH 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14322</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">HAUPTSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14232</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6886</td>
+				<td class="col_city">SCHOPPERNAU</td>
+				<td class="col_street">UNTERDORF 2B</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14112</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6832</td>
+				<td class="col_city">SULZ-ROETHIS</td>
+				<td class="col_street">HUMMELBERGSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">14052</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">SCHILLERSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13912</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH-GISINGEN</td>
+				<td class="col_street">HAUPTSTRASSE 46</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13832</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13272</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6912</td>
+				<td class="col_city">HOERBRANZ</td>
+				<td class="col_street">LINDAUER STRASSE 63</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13262</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">LANGENERSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13172</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6791</td>
+				<td class="col_city">ST. GALLENKIRCH</td>
+				<td class="col_street">SILVRETTASTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">13012</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">HATLERSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12882</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">BAHNHOFSTRASSE 15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12622</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6870</td>
+				<td class="col_city">BEZAU</td>
+				<td class="col_street">BRUGG 35</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12621</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6791</td>
+				<td class="col_city">ST. GALLENKIRCH</td>
+				<td class="col_street">HAUS ALPASELLA 5</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12431</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">KLOSTERGASSE 8</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">12087</td>
+				<td class="col_description">UNICREDIT BANK AUSTRIA AG</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">UNTERSTEINSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10941</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6706</td>
+				<td class="col_city">BUERS</td>
+				<td class="col_street">ALMTEILWEG, ZIMBAPARK 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10921</td>
+				<td class="col_description">BTV 3BANKEN GRUPPE</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KAISERSTRASSE 33</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10612</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">KRANKENHAUSGASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10532</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6952</td>
+				<td class="col_city">HITTISAU</td>
+				<td class="col_street">PLATZ 357</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">10432</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6706</td>
+				<td class="col_city">BUERS</td>
+				<td class="col_street">HAUPTSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8881</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">IM BUCH 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8542</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">WAELDERSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8532</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">LANDSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8352</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HELDENDANKSTRASSE 56B</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8291</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">8192</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6841</td>
+				<td class="col_city">MAEDER</td>
+				<td class="col_street">NEUE LANDSTRASSE 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7802</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7623</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6824</td>
+				<td class="col_city">SCHLINS</td>
+				<td class="col_street">HAUPTSTRASSE 15</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7613</td>
+				<td class="col_description">RAIBA FRASTANZ-SATTEINS</td>
+				<td class="col_zip">6822</td>
+				<td class="col_city">SATTEINS</td>
+				<td class="col_street">RANKWEILER STRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7593</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6867</td>
+				<td class="col_city">SCHWARZENBERG</td>
+				<td class="col_street">BOEDELESTRASSE 666</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7583</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">BUENGENSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7582</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7573</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">HAERTE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7553</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">AM RATHAUSPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7543</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6741</td>
+				<td class="col_city">RAGGAL</td>
+				<td class="col_street">RAGGAL 111</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7533</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6974</td>
+				<td class="col_city">GAISSAU</td>
+				<td class="col_street">HAUPTSTRASSE 210</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7523</td>
+				<td class="col_description">RAIFFEISENBANK VORDERLAND</td>
+				<td class="col_zip">6833</td>
+				<td class="col_city">KLAUS</td>
+				<td class="col_street">WALGAUSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7513</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6794</td>
+				<td class="col_city">PARTENEN</td>
+				<td class="col_street">DORFPLATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7503</td>
+				<td class="col_description">RAIFFEISENBANK GOETZIS</td>
+				<td class="col_zip">6841</td>
+				<td class="col_city">MAEDER</td>
+				<td class="col_street">NEUE LANDSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7502</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7493</td>
+				<td class="col_description">RAIFFEISENBANK GOETZIS</td>
+				<td class="col_zip">6842</td>
+				<td class="col_city">KOBLACH</td>
+				<td class="col_street">WERBEN 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7483</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BUERS</td>
+				<td class="col_street">LORUENSERSTRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7473</td>
+				<td class="col_description">RAIBA WEISSACHTAL-SULZBERG</td>
+				<td class="col_zip">6934</td>
+				<td class="col_city">SULZBERG</td>
+				<td class="col_street">DORF 245</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7463</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6791</td>
+				<td class="col_city">ST. GALLENKIRCH</td>
+				<td class="col_street">ST. GALLENKIRCH 3A</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7453</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6858</td>
+				<td class="col_city">SCHWARZACH</td>
+				<td class="col_street">HOFSTEIGSTRASSE 75</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7433</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">MONTFORTPLATZ 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7403</td>
+				<td class="col_description">RAIFFEISENLANDESBANK VBG.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">KORNMARKTSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7393</td>
+				<td class="col_description">RAIFFEISENBANK LEIBLACHTAL</td>
+				<td class="col_zip">6914</td>
+				<td class="col_city">HOHENWEILER</td>
+				<td class="col_street">LEUTENHOFEN 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7383</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6710</td>
+				<td class="col_city">NENZING</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7373</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">HOECHST</td>
+				<td class="col_street">HAUPTSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7363</td>
+				<td class="col_description">RAIFFEISENLANDESBANK VBG.</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">RHEINSTRASSE 11</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7353</td>
+				<td class="col_description">RAIFFEISENBANK RANKWEIL</td>
+				<td class="col_zip">6812</td>
+				<td class="col_city">MEININGEN</td>
+				<td class="col_street">SCHWEIZER STRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7343</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6921</td>
+				<td class="col_city">KENNELBACH</td>
+				<td class="col_street">BAHNHOFSTRASSE 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7333</td>
+				<td class="col_description">RAIFFEISENLANDESBANK VBG.</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">SCHEIBENSTRASSE 55</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7323</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6972</td>
+				<td class="col_city">FUSSACH</td>
+				<td class="col_street">DORFSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7313</td>
+				<td class="col_description">RAIBA MITTELBREGENZERWALD</td>
+				<td class="col_zip">6866</td>
+				<td class="col_city">ANDELSBUCH</td>
+				<td class="col_street">HOF 354</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7303</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">HARDER STRASSE 70</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7273</td>
+				<td class="col_description">RAIBA FRASTANZ-SATTEINS</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7263</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">KAISER-FRANZ-JOSEF-STRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7253</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">BR 36</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7243</td>
+				<td class="col_description">RAIFFEISENBANK RANKWEIL</td>
+				<td class="col_zip">6811</td>
+				<td class="col_city">GOEFIS</td>
+				<td class="col_street">KIRCHSTRASSE 49</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7223</td>
+				<td class="col_description">RAIFFEISENBANK VORDERLAND</td>
+				<td class="col_zip">6833</td>
+				<td class="col_city">WEILER</td>
+				<td class="col_street">TREIET 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7213</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">MONTFORTPLATZ 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7211</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">CHURERSTRASSE 1</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7203</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6714</td>
+				<td class="col_city">NUEZIDERS</td>
+				<td class="col_street">WALDBURGSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7193</td>
+				<td class="col_description">RAIFFEISENBANK ALTACH</td>
+				<td class="col_zip">6844</td>
+				<td class="col_city">ALTACH</td>
+				<td class="col_street">ACHSTRASSE 10</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7183</td>
+				<td class="col_description">RAIFFEISENBANK ALBERSCHWENDE</td>
+				<td class="col_zip">6861</td>
+				<td class="col_city">ALBERSCHWENDE</td>
+				<td class="col_street">HOF 18</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7173</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">DOMPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7163</td>
+				<td class="col_description">RAIFFEISENBANK HOHENEMS</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">NIBELUNGENSTRASSE 21</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7143</td>
+				<td class="col_description">RAIFFEISENBANK IM RHEINTAL</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">STIGLINGEN 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7133</td>
+				<td class="col_description">RAIFFEISENBANK GOETZIS</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">JUNKER-JONAS-PLATZ 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7123</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6712</td>
+				<td class="col_city">THUERINGEN</td>
+				<td class="col_street">WALGAUSTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7113</td>
+				<td class="col_description">RAIFFEISENBANK MONTAFON</td>
+				<td class="col_zip">6780</td>
+				<td class="col_city">SCHRUNS</td>
+				<td class="col_street">KIRCHPLATZ 3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7103</td>
+				<td class="col_description">RAIFFEISENBANK LEIBLACHTAL</td>
+				<td class="col_zip">6912</td>
+				<td class="col_city">HOERBRANZ</td>
+				<td class="col_street">HERIBRANDSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7093</td>
+				<td class="col_description">RAIFFEISENBANK RANKWEIL</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7083</td>
+				<td class="col_description">RAIFFEISENBANK AM HOFSTEIG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">KELLHOFSTRASSE 12</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7073</td>
+				<td class="col_description">RAIFFEISENBANK FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">RHEINSTRASSE 22</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7063</td>
+				<td class="col_description">RAIFFEISENBANK HOHENEMS</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">SCHILLERALLEE 1-3</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7053</td>
+				<td class="col_description">RAIFFEISENBANK VORDERLAND</td>
+				<td class="col_zip">6832</td>
+				<td class="col_city">SULZ-ROETHIS</td>
+				<td class="col_street">MONTFORTSTRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7043</td>
+				<td class="col_description">RAIFFEISENBANK AM BODENSEE</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">LANDSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7033</td>
+				<td class="col_description">RAIFFEISENBANK BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">WERDENBERGERSTRASSE 9</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">7023</td>
+				<td class="col_description">RAIBA WALGAU-GROSSWALSERTAL</td>
+				<td class="col_zip">6713</td>
+				<td class="col_city">LUDESCH</td>
+				<td class="col_street">RAIFFEISENSTRASSE 69</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6442</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6858</td>
+				<td class="col_city">SCHWARZACH</td>
+				<td class="col_street">WEIDACHSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6432</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">MITTELDORFGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6422</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6973</td>
+				<td class="col_city">HOECHST</td>
+				<td class="col_street">DR.-SCHNEIDER-STRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6412</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6845</td>
+				<td class="col_city">HOHENEMS</td>
+				<td class="col_street">BAHNHOFSTRASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6322</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6302</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">BAHNHOFSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6111</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6922</td>
+				<td class="col_city">WOLFURT</td>
+				<td class="col_street">STERNENPLATZ 6</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">6101</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6911</td>
+				<td class="col_city">LOCHAU</td>
+				<td class="col_street">LANDSTRASSE 8</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5812</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH-TOSTERS</td>
+				<td class="col_street">ALBERWEG 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5682</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6712</td>
+				<td class="col_city">THUERINGEN</td>
+				<td class="col_street">ALTE LANDSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5292</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6833</td>
+				<td class="col_city">KLAUS</td>
+				<td class="col_street">VORSTADT 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5282</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">REICHSSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">5152</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6700</td>
+				<td class="col_city">BLUDENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4991</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6971</td>
+				<td class="col_city">HARD</td>
+				<td class="col_street">LANDSTRASSE 3</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4842</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH-TISIS</td>
+				<td class="col_street">LORENZ-GEHRMANN-STRASSE 4</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4822</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">KIRCHGASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4782</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">HAUPTSTRASSE 46</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4642</td>
+				<td class="col_description">SPARKASSE BLUDENZ</td>
+				<td class="col_zip">6773</td>
+				<td class="col_city">VANDANS</td>
+				<td class="col_street">DORFSTRASSE 27</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4502</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4382</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6844</td>
+				<td class="col_city">ALTACH</td>
+				<td class="col_street">ACHSTRASSE 14</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4341</td>
+				<td class="col_description">BAWAG P.S.K.</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">HAUPTBAHNHOF ?</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4242</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">ROHRBACH 43</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">4232</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">LUSTENAUER STRASSE 44</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3822</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6850</td>
+				<td class="col_city">DORNBIRN</td>
+				<td class="col_street">HATLERSTRASSE 28</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3641</td>
+				<td class="col_description">VOLKSBANK VORARLBERG E.GEN.</td>
+				<td class="col_zip">6830</td>
+				<td class="col_city">RANKWEIL</td>
+				<td class="col_street">RINGSTRASSE 27</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3522</td>
+				<td class="col_description">SPARKASSE DER GEMEINDE EGG</td>
+				<td class="col_zip">6863</td>
+				<td class="col_city">EGG</td>
+				<td class="col_street">LOCO 873</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3432</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH-NOFELS</td>
+				<td class="col_street">KOHLGASSE 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3382</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">ALTE LANDSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">3352</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">HOFSTEIGSTRASSE 2</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2942</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">HASENFELDSTRASSE 17</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2842</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6923</td>
+				<td class="col_city">LAUTERACH</td>
+				<td class="col_street">MONTFORTPLATZ 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2601</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">HELDENDANKSTRASSE 56B</td>
+				<td class="col_atmtype">B</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">2282</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6800</td>
+				<td class="col_city">FELDKIRCH</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1852</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6900</td>
+				<td class="col_city">BREGENZ</td>
+				<td class="col_street">SPARKASSENPLATZ 1</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1672</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6890</td>
+				<td class="col_city">LUSTENAU</td>
+				<td class="col_street">SCHILLERSTRASSE 6</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">1662</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6840</td>
+				<td class="col_city">GOETZIS</td>
+				<td class="col_street">HAUPTSTRASSE 13</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">922</td>
+				<td class="col_description">SPARKASSE DER STADT FELDKIRCH</td>
+				<td class="col_zip">6820</td>
+				<td class="col_city">FRASTANZ</td>
+				<td class="col_street">ALTE LANDSTRASSE 5</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">552</td>
+				<td class="col_description">DORNBIRNER SPARKASSE</td>
+				<td class="col_zip">6991</td>
+				<td class="col_city">RIEZLERN</td>
+				<td class="col_street">WALSER STRASSE 23</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+		
+			<tr>
+				<td class="col_atmnumber">172</td>
+				<td class="col_description">SPARKASSE BREGENZ BANK AG</td>
+				<td class="col_zip">6911</td>
+				<td class="col_city">LOCHAU</td>
+				<td class="col_street">LANDSTRASSE 8</td>
+				<td class="col_atmtype">F</td>
+			</tr>
+</xml>
