@@ -26,6 +26,7 @@ import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -34,17 +35,24 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
 
-public class MainActivity extends FragmentActivity implements FilterLatLngDialog.FilterLatLngDialogListener {
-	
-	// Creating JSON Parser object
-	private JSONParser jParser = new JSONParser();
-	
-	private Intent intent = null;
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
+import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
+import com.google.android.gms.location.LocationServices;
 
-	private ArrayList<Category> categories = new ArrayList<Category>();
-	private ArrayList<String> categoryNames = new ArrayList<String>();
-	private Spinner spinner = null;
-	private Button btnGetResult = null;
+public class MainActivity extends ActionBarActivity implements
+        FilterLatLngDialog.FilterLatLngDialogListener, ConnectionCallbacks, OnConnectionFailedListener{
+
+    // Creating JSON Parser object
+    private JSONParser jParser = new JSONParser();
+
+    private Intent intent = null;
+
+    private ArrayList<Category> categories = new ArrayList<Category>();
+    private ArrayList<String> categoryNames = new ArrayList<String>();
+    private Spinner spinner = null;
+    private Button btnGetResult = null;
 
     private LocationManager locationManager = null;
     private Location location = null;
@@ -52,25 +60,32 @@ public class MainActivity extends FragmentActivity implements FilterLatLngDialog
     private boolean isSpinnerPopulated = false;
     private boolean isLocationFound = false;
 
-    private void setLocation(Location location_){
+    /**
+     * Provides the entry point to Google Play services.
+     */
+    protected GoogleApiClient mGoogleApiClient;
+
+    private void setLocation(Location location_) {
         this.location = location_;
         isLocationFound = true;
 
-        if(isSpinnerPopulated && isLocationFound ){
+        if (isSpinnerPopulated && isLocationFound) {
             btnGetResult.setClickable(true);
             btnGetResult.setEnabled(true);
         }
     }
-	
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
 
         //Check if we have network access
-        if(!isNetworkAvailable()){
+        if (!isNetworkAvailable()) {
             Util.startErrorActivity(this, R.string.error_noNetwork);
             return;
         }
+
+        buildGoogleApiClient();
 
         setContentView(R.layout.activity_main);
 
@@ -84,100 +99,139 @@ public class MainActivity extends FragmentActivity implements FilterLatLngDialog
         });
 
 
-        LocationListener listener = new LocationListener() {
-            @Override
-            public void onLocationChanged(Location location) {
-                setLocation(location);
-            }
-            public void onStatusChanged(String s, int i, Bundle bundle) { }
-            public void onProviderEnabled(String s) {}
-            public void onProviderDisabled(String s) {}
-        };
-
-        try {
-            location = LocationUtil.getLocation(this.getApplicationContext(), listener);
-        } catch (LocationException e) {
-            e.printStackTrace();
-            Util.startErrorActivity(MainActivity.this, R.string.error_generic);
-            return;
-        }
-
-        if( location == null){
-            Util.startErrorActivity(MainActivity.this, R.string.error_noLocation);
-            return;
-        }
-        isLocationFound = true;
-
 
         // Populate the spinner first with the default value,
-		// then with the DB category values
-		spinner = (Spinner) findViewById(R.id.spinner); 
-		spinner.setAdapter( new ArrayAdapter<String>(
-			this, 
-			android.R.layout.simple_spinner_item, 
-			new ArrayList<String>( Arrays.asList(getString(R.string.spinner_loading)))
-		));
-        if(isNetworkAvailable()){
+        // then with the DB category values
+        spinner = (Spinner) findViewById(R.id.spinner);
+        spinner.setAdapter(new ArrayAdapter<String>(
+                this,
+                android.R.layout.simple_spinner_item,
+                new ArrayList<String>(Arrays.asList(getString(R.string.spinner_loading)))
+        ));
+        if (isNetworkAvailable()) {
             new LoadSpinner().execute();
         }
 
-	}
+    }
 
-    public void getResultButtonClick()
-    {
+    @Override
+    protected void onStart() {
+        super.onStart();
+        mGoogleApiClient.connect();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if (mGoogleApiClient.isConnected()) {
+            mGoogleApiClient.disconnect();
+        }
+    }
+
+    /**
+     * Builds a GoogleApiClient. Uses the addApi() method to request the LocationServices API.
+     */
+    protected synchronized void buildGoogleApiClient() {
+        mGoogleApiClient = new GoogleApiClient.Builder(this)
+                .addConnectionCallbacks(this)
+                .addOnConnectionFailedListener(this)
+                .addApi(LocationServices.API)
+                .build();
+    }
+
+    public void getResultButtonClick() {
         // Get the Category ID
         Category selectedCategory = null;
-        for( int i=0; i < categories.size(); i++ ){
-            if(categories.get(i).getName().equals(spinner.getSelectedItem().toString()) )
+        for (int i = 0; i < categories.size(); i++) {
+            if (categories.get(i).getName().equals(spinner.getSelectedItem().toString()))
                 selectedCategory = categories.get(i);
         }
-        intent = new Intent(MainActivity.this, ResultActivity.class);
-        intent.putExtra(Var.CATEGORY_ID, selectedCategory);
         new LoadAllNodesTask(this, location, jParser).execute(selectedCategory);
     }
-	
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.main, menu);
-		return true;
-	}
-	
-	@Override
-	public boolean onOptionsItemSelected(MenuItem item) {
-	    // Handle item selection
-	    switch (item.getItemId()) {
-	        case R.id.action_filterlatlng:
-	        	new FilterLatLngDialog().show(getFragmentManager(), "Test");
-	            return true;
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.action_filterlatlng:
+                new FilterLatLngDialog().show(getFragmentManager(), "Test");
+                return true;
 	       /* case R.id.action_settings:
 	            return true;*/
-	        default:
-	            return super.onOptionsItemSelected(item);
-	    }
-	}
-
-	
-	/**
-	 * This function checks if there is a Internet connection available
-	 */
-	private boolean isNetworkAvailable() {
-		ConnectivityManager connectivityManager 
-			  = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
-		NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
-		return activeNetworkInfo != null && activeNetworkInfo.isConnected();
-	}
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
 
 
-	/**
-	 * Background Async Task to load up the Spinner
-	 */
-	class LoadSpinner extends AsyncTask<String, String, String> {
- 
-		protected String doInBackground(String... args) {
-			// Building Parameters
-			List<NameValuePair> params = new ArrayList<NameValuePair>();
-			params.add(new BasicNameValuePair("task", "all_categories"));
+    /**
+     * This function checks if there is a Internet connection available
+     */
+    private boolean isNetworkAvailable() {
+        ConnectivityManager connectivityManager
+                = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
+        return activeNetworkInfo != null && activeNetworkInfo.isConnected();
+    }
+
+    @Override
+    public void onDialogPositiveClick(FilterLatLngDialog dialog) {
+        // todo
+    }
+
+    @Override
+    public void onDialogNegativeClick(FilterLatLngDialog dialog) {
+        // todo
+    }
+
+    /**
+     * Runs when a GoogleApiClient object successfully connects.
+     */
+    @Override
+    public void onConnected(Bundle connectionHint) {
+        // Provides a simple way of getting a device's location and is well suited for
+        // applications that do not require a fine-grained location and that do not need location
+        // updates. Gets the best and most recent location currently available, which may be null
+        // in rare cases when a location is not available.
+        Location lastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
+
+        if (lastLocation != null) {
+            Log.d("LATITUDE", String.valueOf(lastLocation.getLatitude()));
+            Log.d("LONGITUDE", String.valueOf(lastLocation.getLongitude()));
+            setLocation(lastLocation);
+        } else {
+            Util.startErrorActivity(MainActivity.this, R.string.error_noLocation);
+        }
+    }
+
+    @Override
+    public void onConnectionSuspended(int i) {
+
+    }
+
+    @Override
+    public void onConnectionFailed(ConnectionResult connectionResult) {
+        Util.startErrorActivity(MainActivity.this, R.string.error_noLocation);
+    }
+
+
+    /**
+     * Background Async Task to load up the Spinner
+     */
+    class LoadSpinner extends AsyncTask<String, String, String> {
+
+        @Override
+        protected String doInBackground(String... args) {
+            // Building Parameters
+            List<NameValuePair> params = new ArrayList<NameValuePair>();
+            params.add(new BasicNameValuePair("task", "all_categories"));
 
             JSONObject json = null;
             try {
@@ -185,42 +239,55 @@ public class MainActivity extends FragmentActivity implements FilterLatLngDialog
             } catch (JSONParserException e) {
                 return null;
             }
+            Log.d("FINDME Json", json.toString());
+
 
             try {
-				JSONArray jsonArray = new JSONArray(json.optString("categories"));
+                JSONArray jsonArray = new JSONArray(json.optString("categories"));
+                Log.d("FINDME Array", jsonArray.toString());
 
-				for (int i = 0; i < jsonArray.length(); i++) {
+                for (int i = 0; i < jsonArray.length(); i++) {
                     JSONObject jCategory = jsonArray.getJSONObject(i);
+
+                    Category category = new Category(
+                            jCategory.optInt("cid"),
+                            jCategory.optString("name"));
+                    categories.add(category);
+
+                    categoryNames.add(jCategory.optString("name"));
                 }
 
-
-
-			} catch(Exception e){
+            } catch (Exception e) {
                 e.printStackTrace();
                 Util.startErrorActivity(MainActivity.this);
                 return null;
-			}
+            }
 
-			return null;
-		}
-		
-		/**
-		 * After completing background task Dismiss the progress dialog
-		 * */
-		protected void onPostExecute(String file_url) {
-			
-			runOnUiThread(new Runnable() {
-				public void run() {
+            return null;
+        }
+
+        /**
+         * After completing background task Dismiss the progress dialog
+         */
+        @Override
+        protected void onPostExecute(String file_url) {
+
+            runOnUiThread(new Runnable() {
+                public void run() {
                     Log.v("findme", categoryNames.toString());
-					ArrayAdapter<String> adapter = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_spinner_item, categoryNames);
-					adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-					spinner.setAdapter(adapter);
-					isSpinnerPopulated = true;
+                    ArrayAdapter<String> adapter = new ArrayAdapter<String>(MainActivity.this, android.R.layout.simple_spinner_item, categoryNames);
+                    adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+                    spinner.setAdapter(adapter);
+                    isSpinnerPopulated = true;
 
-				}
-			});	
-		}
-	}
-
+                    if (isSpinnerPopulated && isLocationFound) {
+                        btnGetResult.setClickable(true);
+                        btnGetResult.setEnabled(true);
+                    }
+                }
+            });
+        }
+    }
+}
 
 
