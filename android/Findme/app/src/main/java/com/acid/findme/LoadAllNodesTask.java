@@ -43,7 +43,8 @@ public class LoadAllNodesTask extends AsyncTask<Category, String, ArrayList<Node
     private MainActivity activity;
     private final Location location;
     private JSONParser jParser;
-    private Intent intent;
+    private Category category;
+
 
     public LoadAllNodesTask(MainActivity activity, Location location, JSONParser jParser)
     {
@@ -51,7 +52,6 @@ public class LoadAllNodesTask extends AsyncTask<Category, String, ArrayList<Node
         this.location = location;
         this.jParser = jParser;
 
-        intent = activity.getIntent();
     }
 
     /**
@@ -77,6 +77,8 @@ public class LoadAllNodesTask extends AsyncTask<Category, String, ArrayList<Node
         Location lastLoc = location;
 
         ArrayList<Node> nodes = new ArrayList<Node>();
+
+        this.category = categories[0];
 
         try {
             // Building Parameters
@@ -150,7 +152,9 @@ public class LoadAllNodesTask extends AsyncTask<Category, String, ArrayList<Node
 
         activity.runOnUiThread(new Runnable() {
             public void run() {
+                Intent intent = new Intent(activity, ResultActivity.class);
                 intent.putParcelableArrayListExtra("nodes", nodes);
+                intent.putExtra(Var.CATEGORY_ID, category);
                 activity.startActivity(intent);
             }
         });
