@@ -42,10 +42,10 @@ public class Distance {
      * @param d
      * @return String
      */
-    protected static String format(double d) {
+    public static String format(double d) {
     	Double distance = new Double(d);
     	if(d < 1) {
-    		Log.d("Distance", distance.toString());
+    		//Log.d("Distance", distance.toString());
     		return String.format("%dm", (int)(distance*1000));
     	} else if(d >= 10){
     		
