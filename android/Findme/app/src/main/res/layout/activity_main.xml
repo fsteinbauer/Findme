@@ -41,7 +41,7 @@
 	        android:background="@drawable/default_button"
 	        android:textColor="@color/dark_green"
 	        android:enabled="false"
-	        android:text="Go" />
+	        android:text="@string/button_go"/>
 
     </LinearLayout>
 

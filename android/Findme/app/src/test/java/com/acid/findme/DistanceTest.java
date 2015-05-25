@@ -1,4 +1,4 @@
-import com.acid.findme.Distance;
+package com.acid.findme;
 
 import org.junit.Test;
 
@@ -23,5 +23,4 @@ public class DistanceTest {
         String s = Distance.format(5.302);
         assertEquals("5,30km",s);
     }
-
 }

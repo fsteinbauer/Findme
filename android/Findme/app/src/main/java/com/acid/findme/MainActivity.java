@@ -86,6 +86,7 @@ public class MainActivity extends ActionBarActivity implements
         }
 
         buildGoogleApiClient();
+        mGoogleApiClient.connect();
 
         setContentView(R.layout.activity_main);
 
@@ -117,13 +118,13 @@ public class MainActivity extends ActionBarActivity implements
     @Override
     protected void onStart() {
         super.onStart();
-        mGoogleApiClient.connect();
+        //Check if we have network access
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        if (mGoogleApiClient.isConnected()) {
+        if (mGoogleApiClient != null && mGoogleApiClient.isConnected()) {
             mGoogleApiClient.disconnect();
         }
     }

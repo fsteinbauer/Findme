@@ -15,7 +15,7 @@
     <string name="main_title">Where is the next</string>
     <string name="spinner_loading">Loading&#8230;</string>
     <string name="nodes_loading">Loading Nodes</string>
-    <string name="button_go">Go</string>
+    <string name="button_go">GO</string>
     <string name="button_restart">Restart App</string>
 
     <string name="error_generic">An unexpected Error has occured!</string>
