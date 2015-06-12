@@ -47,4 +47,16 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
         hanSolo.sleep(8000);
     }
 
+    public void testClickFilterLatLngDialog() {
+        hanSolo.clickOnMenuItem(hanSolo.getString(R.string.action_filterlatlng));
+
+        assertTrue("Could not find the dialog!", hanSolo.searchText(hanSolo.getString(R.string.dialog_filterLatLng_title)));
+    }
+
+    public void testClickSettings() {
+        hanSolo.clickOnMenuItem(hanSolo.getString(R.string.action_settings));
+
+        assertTrue("Could not find the dialog!", hanSolo.searchText("Einstellungen"));
+    }
+
 }
